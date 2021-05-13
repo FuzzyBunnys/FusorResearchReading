@@ -18,10 +18,10 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Coders at Work]
 
 ### Math
--[The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261)
--[Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
--[Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1)
--[Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/)
+- [The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261)
+- [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+- [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1)
+- [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/)
 ### Engineering
 
 
