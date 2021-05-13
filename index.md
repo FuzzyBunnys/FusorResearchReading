@@ -30,8 +30,10 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 - [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1)
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/)
+
 ### Engineering
 - [Debugging]()
+
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 - [My Life as a Quant]()
