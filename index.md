@@ -6,10 +6,12 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ## How Does Invention Occur?
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
+- 
 ### History + Sociology
 - [The Glass Bathyscape]()
 - [The Invention of the Modern World]()
-- 
+
+
 ### Biography 
 
 ## Techniques of Invention
@@ -17,7 +19,6 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ### Programming
 - [The Pragmatic Programmer]()
 - [Thinking Forth]()
-
 - [Coders at Work]()
 
 ### Math
