@@ -16,7 +16,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 
 ### Biography - Auto and Otherwise
-- [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Strat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
+- [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
 
 ## Techniques of Invention
 
