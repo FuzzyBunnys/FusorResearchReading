@@ -1,19 +1,11 @@
-## Welcome to GitHub Pages
+## Research and Reading
 
-You can use the [editor on GitHub](https://github.com/FuzzyBunnys/FusorResearchReading/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've been doing a lot of reading and research regarding the Fusor. I have some things I want to try with it, rather than just simply ticking the box on achieving fusion, and that means I need some new ideas. This page is a listing of information, math, videos, books, articles etc. that I have read and I think are generally pertinent towards this goal.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How Does Invention Occur?
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## Techniques of Invention
 
 - Bulleted
 - List
