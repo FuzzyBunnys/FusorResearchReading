@@ -10,9 +10,13 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ### History + Sociology
 - [The Glass Bathyscape]()
 - [The Invention of the Modern World]()
+- [Skunk Works]()
+- [Operation Paperclip]()
+- [Masters of Doom]()
 
 
-### Biography 
+### Biography - Auto and Otherwise
+- [To Mars With Love]()
 
 ## Techniques of Invention
 
