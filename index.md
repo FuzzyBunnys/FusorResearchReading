@@ -10,21 +10,21 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### History + Sociology
 **Books**
-- [The Glass Bathyscape]()
-- [The Invention of the Modern World]()
-- [Skunk Works]()
-- [Operation Paperclip]()
-- [Masters of Doom]()
-- [The Decadent Society]()
-- [The Origins of AIDS]()
-- [Everyday Technology]()
-- [Cathedral Forge and Waterwheel]()
-- [Inviting Disaster - Lessons from the Edge of Technology]()
-- [The Glass Cage]()
-- [Why Most Things Fail]()
-- [Things Fall Apart]()
-- [Craeft]()
-- [Cognitive Gadgets]()
+- [The Glass Bathyscaphe](https://amzn.to/33G9bNs) - Alan Macfarlane and Penny Tweedie - 
+- [The Invention of the Modern World](https://amzn.to/3og2sDa) - Alan Macfarlane - 
+- [Skunk Works](https://amzn.to/3w7DUPz) - Ben R. Rich and Leo Janos - 
+- [Operation Paperclip](https://amzn.to/3ohdnfW) - Annie Jacobsen - 
+- [Masters of Doom](https://amzn.to/3uNtB32) - David Kushner - 
+- [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - 
+- [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - 
+- [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - 
+- [Cathedral Forge and Waterwheel](https://amzn.to/3ht7evQ) - Frances and Joseph Gies - 
+- [Inviting Disaster - Lessons from the Edge of Technology](https://amzn.to/3w4fB56) - James R. Chiles - 
+- [The Glass Cage](https://amzn.to/3og3fUE) - Nicholas Carr - 
+- [Why Most Things Fail](https://amzn.to/33QtNlX) - Paul Ormerod - 
+- [Things Fall Apart](https://amzn.to/3bn7uJ1) - Chinua Achebe - 
+- [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - 
+- [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - 
 
 
 ### Biography - Auto and Otherwise
@@ -40,9 +40,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Programming
 **Books**
-- [The Pragmatic Programmer]()
-- [Thinking Forth]()
-- [Coders at Work]()
+- [The Pragmatic Programmer]() - 
+- [Thinking Forth]() - 
+- [Coders at Work]() - 
 
 ### Math
 **Books**
@@ -64,18 +64,19 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Engineering
 **Books**
-- [Debugging]()
-- [Ignition!]()
-- [To Engineer is Human]()
-- [Invention by Design]()
+- [Debugging]() - 
+- [Ignition!]() - 
+- [To Engineer is Human]() -
+- [Invention by Design]() -
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
+
 **Books**
-- [My Life as a Quant]()
-- [When Genius Failed]()
-- [Models Behaving Badly]()
-- [Unknown Market Wizards]()
-- [Fooled by Randomness]()
-- [The Black Swan]()
-- [Antifragile]()
+- [My Life as a Quant]() - Emanuel Derman - 
+- [When Genius Failed]() - Roger Lowenstein - 
+- [Models Behaving Badly]() - Emanuel Derman - 
+- [Unknown Market Wizards]() - Jack D Schwager - 
+- [Fooled by Randomness]() - Nicholas Nassim Taleb - 
+- [The Black Swan]() - Nicholas Nassim Taleb -
+- [Antifragile]() - Nicholas Nassim Taleb -
