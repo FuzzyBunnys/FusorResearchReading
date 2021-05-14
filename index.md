@@ -30,11 +30,11 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ### Biography - Auto and Otherwise
 **Books**
 - [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
-- [Grace Hopper and the Invention of the Information Age]()
-- [The Forgotten Genius of Oliver Heaviside]()
-- [The Man Who Changed Everything]()
-- [True Genius - The Life and Science of John Bardeen]()
-- [The Dream Machine]() 
+- [Grace Hopper and the Invention of the Information Age](https://amzn.to/3oiCIGl) - Kurt Beyer - 
+- [The Forgotten Genius of Oliver Heaviside](https://amzn.to/3hxpkwV) - Basil Mahon - 
+- [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon 
+- [True Genius - The Life and Science of John Bardeen](https://amzn.to/33N5oOp) - Lillian Hodeson and Vicki Daitch - One thing I find very odd is how rarely the midwest of the United States is talked about as a hotbed of invention. People often like to discuss the Hungarians who built the bomb, and their undeniable genius, but the midwest of the US birthed Claude Shannon, Robert Noyce, John Bardeen, The Wright Brothers, and Philo Farnsworth. This book is a fascinating look at the Electrical Engineer who invented the transistor and then explained Type 1 Superconductivity. His background, and his education was all through American institutions of Pre-War and immediate Post-War vintage. Forget DARPA, what social structures laid the groundwork for his work? We should want more of it.  
+- [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - 
 
 ## Techniques of Invention
 
@@ -61,6 +61,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
+- [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin - 
 
 ### Engineering
 **Books**
