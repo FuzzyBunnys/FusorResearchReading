@@ -42,9 +42,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Math
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
-- [The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261) - Dr. Brad Osgood - 
-- [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ) - Dr. Tadashi Tokieda - 
-- [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1) - Dr. Michael Penn - 
+- [The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261) - Dr. Brad Osgood - I ran through all of these lectures in the summer of 2020 and took notes after they were recommended by Jeremy Kun in his book. They're a great series and placed the Fourier Transform in context for me. 
+- [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ) - Dr. Tadashi Tokieda - A fantastic course and a very good introduction to Topology. Again, I watched all the videos and took notes. It familiarized me with the field and also provided tremendous insight in to what mathematics really is and how it operates. To quote Dr. Tokieda: "that's what mathematics is, an analogy". 
+- [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1) - Dr. Michael Penn - A great overview of differential forms that I completed in the spring of 2021. There's some hints that more videos might be added in the future, but currently it was a great introduction to modern methods of expressing Maxwell's Equations. 
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/) - - A great introduction to particle in cell simulations for plasmas. I was able to purchase the course as a student at a discount for $25. I took notes of all the videos and it was a great help for writing my own initial PIC simulation. 
 - [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Currently halfway through this series of videos taking notes as I go.
 
