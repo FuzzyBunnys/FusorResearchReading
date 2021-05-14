@@ -46,6 +46,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Math
 **Books**
+-[A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - 
+-[Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
