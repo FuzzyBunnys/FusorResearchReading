@@ -5,9 +5,11 @@ I've been doing a lot of reading and research regarding the Fusor. I have some t
 Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC and Why it Had to be Reborn](https://www.amazon.ca/gp/product/3540200681/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=3540200681&linkCode=as2&tag=nkrause-20&linkId=6b1b4303ea4c2b0ac45a1005db0a5e8c)
 
 ## How Does Invention Occur?
+**Videos**
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
 
 ### History + Sociology
+**Books**
 - [The Glass Bathyscape]()
 - [The Invention of the Modern World]()
 - [Skunk Works]()
@@ -26,6 +28,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 
 ### Biography - Auto and Otherwise
+**Books**
 - [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
 - [Grace Hopper and the Invention of the Information Age]()
 - [The Forgotten Genius of Oliver Heaviside]()
@@ -36,11 +39,19 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ## Techniques of Invention
 
 ### Programming
+**Books**
 - [The Pragmatic Programmer]()
 - [Thinking Forth]()
 - [Coders at Work]()
 
 ### Math
+**Books**
+
+**Papers**
+- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
+
+
+**Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
 - [The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261) - Dr. Brad Osgood - I ran through all of these lectures in the summer of 2020 and took notes after they were recommended by Jeremy Kun in his book. They're a great series and placed the Fourier Transform in context for me. 
 - [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ) - Dr. Tadashi Tokieda - A fantastic course and a very good introduction to Topology. Again, I watched all the videos and took notes. It familiarized me with the field and also provided tremendous insight in to what mathematics really is and how it operates. To quote Dr. Tokieda: "that's what mathematics is, an analogy". 
@@ -48,7 +59,11 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/) - - A great introduction to particle in cell simulations for plasmas. I was able to purchase the course as a student at a discount for $25. I took notes of all the videos and it was a great help for writing my own initial PIC simulation. 
 - [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Currently halfway through this series of videos taking notes as I go.
 
+**Websites**
+- [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
+
 ### Engineering
+**Books**
 - [Debugging]()
 - [Ignition!]()
 - [To Engineer is Human]()
@@ -56,6 +71,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
+**Books**
 - [My Life as a Quant]()
 - [When Genius Failed]()
 - [Models Behaving Badly]()
