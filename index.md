@@ -47,7 +47,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ### Math
 **Books**
 - [A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - 
-- [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first introduction to Linear Algebra and just scraped through. This book 
+- [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first introduction to Linear Algebra and just scraped through. I read most of this book over the course of a summer. I took my time and would work through the exercises as described, and for the first time, things like a basis and span and all these technical definitions really started to click! I keep meaning to finish the book and work through the second volume on vector and geometric calculus. 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
