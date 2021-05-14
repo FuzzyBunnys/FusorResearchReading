@@ -32,7 +32,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
 - [Grace Hopper and the Invention of the Information Age](https://amzn.to/3oiCIGl) - Kurt Beyer - 
 - [The Forgotten Genius of Oliver Heaviside](https://amzn.to/3hxpkwV) - Basil Mahon - 
-- [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon 
+- [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon -
 - [True Genius - The Life and Science of John Bardeen](https://amzn.to/33N5oOp) - Lillian Hodeson and Vicki Daitch - One thing I find very odd is how rarely the midwest of the United States is talked about as a hotbed of invention. People often like to discuss the Hungarians who built the bomb, and their undeniable genius, but the midwest of the US birthed Claude Shannon, Robert Noyce, John Bardeen, The Wright Brothers, and Philo Farnsworth. This book is a fascinating look at the Electrical Engineer who invented the transistor and then explained Type 1 Superconductivity. His background, and his education was all through American institutions of Pre-War and immediate Post-War vintage. Forget DARPA, what social structures laid the groundwork for his work? We should want more of it.  
 - [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - 
 
@@ -40,9 +40,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Programming
 **Books**
-- [The Pragmatic Programmer]() - 
-- [Thinking Forth]() - 
-- [Coders at Work]() - 
+- [The Pragmatic Programmer](https://amzn.to/3y9ZrJb) - David Thomas and Andrew Hunt - 
+- [Thinking Forth](https://amzn.to/2SQZBVP) - Leo Brodie - 
+- [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - 
 
 ### Math
 **Books**
@@ -74,18 +74,21 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 
 **Books**
-- [My Life as a Quant]() - Emanuel Derman - 
-- [When Genius Failed]() - Roger Lowenstein - 
-- [Models Behaving Badly]() - Emanuel Derman - 
-- [Unknown Market Wizards]() - Jack D Schwager - 
-- [Fooled by Randomness]() - Nicholas Nassim Taleb - 
-- [The Black Swan]() - Nicholas Nassim Taleb -
-- [Antifragile]() - Nicholas Nassim Taleb -
+- [My Life as a Quant](https://amzn.to/3uSggpW) - Emanuel Derman - 
+- [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - 
+- [Models Behaving Badly](https://amzn.to/3tO4N9I) - Emanuel Derman - 
+- [Unknown Market Wizards](https://amzn.to/3eOKa9i) - Jack D Schwager - 
+- [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
+- [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
+- [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
 
 ### Physics
 **Books**
+- [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley
+
 
 **Papers**
+- [The Vibrational Properties of an Electron Gas]()
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
