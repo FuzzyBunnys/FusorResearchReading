@@ -13,10 +13,25 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Skunk Works]()
 - [Operation Paperclip]()
 - [Masters of Doom]()
+- [The Decadent Society]()
+- [The Origins of AIDS]()
+- [Everyday Technology]()
+- [Cathedral Forge and Waterwheel]()
+- [Inviting Disaster - Lessons from the Edge of Technology]()
+- [The Glass Cage]()
+- [Why Most Things Fail]()
+- [Things Fall Apart]()
+- [Craeft]()
+- [Cognitive Gadgets]()
 
 
 ### Biography - Auto and Otherwise
 - [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
+- [Grace Hopper and the Invention of the Information Age]()
+- [The Forgotten Genius of Oliver Heaviside]()
+- [The Man Who Changed Everything]()
+- [True Genius - The Life and Science of John Bardeen]()
+- [The Dream Machine]() 
 
 ## Techniques of Invention
 
@@ -35,6 +50,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Engineering
 - [Debugging]()
+- [Ignition!]()
+- [To Engineer is Human]()
+- [Invention by Design]()
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
