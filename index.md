@@ -61,14 +61,14 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
-- [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin - 
+ 
 
 ### Engineering
 **Books**
-- [Debugging]() - 
-- [Ignition!]() - 
-- [To Engineer is Human]() -
-- [Invention by Design]() -
+- [Debugging](https://amzn.to/3uO93HJ) - David Agans - 
+- [Ignition!](https://amzn.to/3uPSjzM) - John Drury Clark - 
+- [To Engineer is Human](https://amzn.to/3uK9NgO) - Henry Petroski - 
+- [Invention by Design](https://amzn.to/3eJKRR4) - Henry Petroski - 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
@@ -81,3 +81,11 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Fooled by Randomness]() - Nicholas Nassim Taleb - 
 - [The Black Swan]() - Nicholas Nassim Taleb -
 - [Antifragile]() - Nicholas Nassim Taleb -
+
+### Physics
+**Books**
+
+**Papers**
+
+**Websites**
+- [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
