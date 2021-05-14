@@ -31,7 +31,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 **Books**
 - [To Mars With Love](https://www.tomarswithlove.com/) - Patricia Ann Straat - A wonderful story about the development of one of the life detection experiments on the Viking Lander. Known as the Labelled Release experiment, this book details its design and invention and lays out the case that life was actually detected by the device. Sadly the author passed away in October of last year, this whole book is fascinating and deserves to be more widely read.  
 - [Grace Hopper and the Invention of the Information Age](https://amzn.to/3oiCIGl) - Kurt Beyer - 
-- [The Forgotten Genius of Oliver Heaviside](https://amzn.to/3hxpkwV) - Basil Mahon - 
+- [The Forgotten Genius of Oliver Heaviside](https://amzn.to/3hxpkwV) - Basil Mahon - It is stunning how many of the methods modern Electrical Engineers use to solve problems are due to the genius of a single man. 
 - [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon -
 - [True Genius - The Life and Science of John Bardeen](https://amzn.to/33N5oOp) - Lillian Hodeson and Vicki Daitch - One thing I find very odd is how rarely the midwest of the United States is talked about as a hotbed of invention. People often like to discuss the Hungarians who built the bomb, and their undeniable genius, but the midwest of the US birthed Claude Shannon, Robert Noyce, John Bardeen, The Wright Brothers, and Philo Farnsworth. This book is a fascinating look at the Electrical Engineer who invented the transistor and then explained Type 1 Superconductivity. His background, and his education was all through American institutions of Pre-War and immediate Post-War vintage. Forget DARPA, what social structures laid the groundwork for his work? We should want more of it.  
 - [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - 
@@ -46,8 +46,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Math
 **Books**
--[A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - 
--[Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - 
+- [A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - 
+- [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first introduction to Linear Algebra and just scraped through. This book 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
@@ -86,11 +86,14 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 ### Physics
 **Books**
-- [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley
+- [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
+- [Inertial Electrostatic Confinement Fusion](https://amzn.to/3tWZZPz) - Dr. George H. Miley and Dr. S. Krupakar Murali - 
 
 
 **Papers**
-- [The Vibrational Properties of an Electron Gas]()
+- [The Vibrational Properties of an Electron Gas]() - Dr. Anatoly Vlasov - 
+- [Hunting for Snarks in Quantum Mechanics]() - Dr. David Hestenes -
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
+- [Fusor.net](https://fusor.net/) - 
