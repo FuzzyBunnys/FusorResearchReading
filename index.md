@@ -9,8 +9,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
 
 **Interviews**
-
--[Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
+- [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
 
 ### History + Sociology
 **Books**
