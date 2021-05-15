@@ -25,7 +25,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Things Fall Apart](https://amzn.to/3bn7uJ1) - Chinua Achebe - 
 - [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - 
 - [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - 
-- [Regional Advantage]()
+- [Regional Advantage](https://amzn.to/3uQAD74) - Anna Lee Saxenian - 
 
 
 ### Biography - Auto and Otherwise
