@@ -8,6 +8,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 **Videos**
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
 
+**Interviews**
+-[Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
+
 ### History + Sociology
 **Books**
 - [The Glass Bathyscaphe](https://amzn.to/33G9bNs) - Alan Macfarlane and Penny Tweedie - A good read about how glass made many technologies possible. Imagine chemistry without glassware, biology without the optics of the microscope, it's impossible. A lot of fascinating history is included, what is the link between better bureaucracy and reading glasses? What about perspective in art, the window and projective geometry in mathematics? Very much worth reading.
@@ -92,6 +95,9 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
 
 ### Physics
+**Interviews**
+-[The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
+
 **Books**
 - [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
 - [Inertial Electrostatic Confinement Fusion](https://amzn.to/3tWZZPz) - Dr. George H. Miley and Dr. S. Krupakar Murali - 
