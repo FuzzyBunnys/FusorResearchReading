@@ -53,13 +53,14 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### Math
 **Books**
-- [A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - 
+- [A Programmer's Introduction to Mathematics](https://amzn.to/3tMix4L) - Jeremy Kun - I've read through 3/4 (8/10? Something like that) of this book. I've also done none of the exercises (my kingdom for an answer key!). A very nice read, in particular I really enjoyed the derivation of the wave equation and the general conversational tone of the book. Very reassuring to hear that yes learning new math is supposed to be slow. 
 - [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first Linear Algebra course and just scraped through. I read most of this book over the course of a summer. I took my time and would work through the exercises as described, and for the first time, things like a basis and span and all these technical definitions really started to click! I keep meaning to finish the book and work through the second volume on vector and geometric calculus. 
 - [Quick Calculus](https://amzn.to/3uSLEVp) - Daniel Kleppner and Norman Ramsey - I worked through this calculus book the summer after graduating from SAIT based on a recommendation in the Art of Electronics. Very well done and a nice review.
 - [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson - One of the best teaching books I've ever read. I worked through the whole book in the fall of 2017, it was a wonderful review and provided some of the best ways intuitive ways of thinking about the integral and derivative as a beginner. If you want to refresh your calculus or learn it for the first time, there is no better book. 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
+- [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
 
 
 **Courses**
