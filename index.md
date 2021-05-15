@@ -21,7 +21,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Masters of Doom](https://amzn.to/3uNtB32) - David Kushner - A fascinating history of the early days of id software, makers of Doom. I spent a lot of time playing this game in my youth and its fascinating to me just how young Carmack and his compatriots were. There's a wonderful line in the book when they're talking about key-man insurance for the company "no one else matters". How far back would computer graphics be without Carmack? Perhaps Peter Thiel's heroic vision of technology is the right one. 
 - [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - An essay about America and why she is, probably best read in conjunction with Tyler Cowen's complacent class. Many comparisons to Rome and its fall from grace. Perhaps the best explanation of the current navel gazing American politics seems to be engaged in.
 - [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - When is a plague man-made and when is it not? A very thorough investigation into the origins of a slow burning plague. The construction of railways, hunting for game meat, poorly sterilized needles in public health campaigns, it's all in here. Very well written and laid out. 
-- [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - Technology often 
+- [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - Technology often means large projects to people. Think Apollo or the Manhattan Project, but in terms of day to day life it's often much more basic objects that create enduring change. We can no longer put a man on the moon, but everyone has a television in their house. This book looks at technological change in India through implements like the typewriter and sewing machine, very much worth reading to shift one's perspective on what real innovation for society looks like. 
 - [Cathedral Forge and Waterwheel](https://amzn.to/3ht7evQ) - Frances and Joseph Gies - 
 - [Inviting Disaster - Lessons from the Edge of Technology](https://amzn.to/3w4fB56) - James R. Chiles - 
 - [The Glass Cage](https://amzn.to/3og3fUE) - Nicholas Carr - 
@@ -32,6 +32,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Regional Advantage](https://amzn.to/3uQAD74) - Anna Lee Saxenian - 
 - [The Complacent Class](https://amzn.to/3ePiC3B) - Tyler Cowen - 
 - [How the Scots Invented the Modern World](https://amzn.to/3tLuYO9) - Arthur Herman - 
+- [Scientific Freedom the Elixir of Civilization](https://amzn.to/3tPj2uZ) - Donald Braben - 
 
 
 ### Biography - Auto and Otherwise
