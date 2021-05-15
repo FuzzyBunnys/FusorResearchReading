@@ -108,7 +108,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [The Vibrational Properties of an Electron Gas](http://stacks.iop.org/0038-5670/10/i=6/a=R01?key=crossref.aacb255e7c1db57247094a75ece8ff6d) - Dr. Anatoly Vlasov - 
 - [Asymmetric Electrostatic Radiation Shielding for Spacecraft](10.1109/AERO.2004.1367649) - Dr. Phil Metzger et al. - 
 - [Hunting for Snarks in Quantum Mechanics](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/abs/10.1063/1.3275605) - Dr. David Hestenes -
-- [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - 
+- [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - What it says on the box. 
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
