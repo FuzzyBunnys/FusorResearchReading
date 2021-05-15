@@ -14,10 +14,10 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Invention of the Modern World](https://amzn.to/3og2sDa) - Alan Macfarlane - A series of essays by the Cambridge anthropologist on how England and Great Britain came to be at the center of industrialization and modernization. Lots of fascinating tidbits about the relationship between religion and men, the pre-existing mechanisation with waterwheels and windmills and the social structure of the society. 
 - [Skunk Works](https://amzn.to/3w7DUPz) - Ben R. Rich and Leo Janos - An overview of one of the most innovative areas of aircraft design in the US. Lots of great information about the development of the U2 and everyone's favourite the SR-71. Goes into some detail about the first stealth fighter and how the whole Skunkworks was organized. Of note is the frustration with increasing security requirements that appeared from the 70's onwards. 
 - [Operation Paperclip](https://amzn.to/3ohdnfW) - Annie Jacobsen - I have no clue if this is the best history of operation paperclip but it seems alright. A good overview of how the US brought over numerous Nazi scientists in the immediate aftermath of the second world war and put them to work. Everyone knows about Werner Von Braun (who cares where the rockets come down?) and the role they played in the Apollo program, but lots of other details are fleshed out. Nerve gas, human exposure experiments to cold, plenty of nasty individuals came over!
-- [Masters of Doom](https://amzn.to/3uNtB32) - David Kushner - 
-- [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - 
-- [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - 
-- [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - 
+- [Masters of Doom](https://amzn.to/3uNtB32) - David Kushner - A fascinating history of the early days of id software, makers of Doom. I spent a lot of time playing this game in my youth and its fascinating to me just how young Carmack and his compatriots were. There's a wonderful line in the book when they're talking about key-man insurance for the company "no one else matters". How far back would computer graphics be without Carmack? Perhaps Peter Thiel's heroic vision of technology is the right one. 
+- [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - An essay about America and why she is, probably best read in conjunction with Tyler Cowen's complacent class. Many comparisons to Rome and its fall from grace. Perhaps the best explanation of the current navel gazing American politics seems to be engaged in.
+- [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - When is a plague man-made and when is it not? A very thorough investigation into the origins of a slow burning plague. The construction of railways, hunting for game meat, poorly sterilized needles in public health campaigns, it's all in here. Very well written and laid out. 
+- [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - Technology often 
 - [Cathedral Forge and Waterwheel](https://amzn.to/3ht7evQ) - Frances and Joseph Gies - 
 - [Inviting Disaster - Lessons from the Edge of Technology](https://amzn.to/3w4fB56) - James R. Chiles - 
 - [The Glass Cage](https://amzn.to/3og3fUE) - Nicholas Carr - 
@@ -26,6 +26,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - 
 - [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - 
 - [Regional Advantage](https://amzn.to/3uQAD74) - Anna Lee Saxenian - 
+- [The Complacent Class](https://amzn.to/3ePiC3B) - Tyler Cowen - 
+- [How the Scots Invented the Modern World](https://amzn.to/3tLuYO9) - Arthur Herman - 
 
 
 ### Biography - Auto and Otherwise
