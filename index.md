@@ -10,10 +10,10 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### History + Sociology
 **Books**
-- [The Glass Bathyscaphe](https://amzn.to/33G9bNs) - Alan Macfarlane and Penny Tweedie - 
-- [The Invention of the Modern World](https://amzn.to/3og2sDa) - Alan Macfarlane - 
-- [Skunk Works](https://amzn.to/3w7DUPz) - Ben R. Rich and Leo Janos - 
-- [Operation Paperclip](https://amzn.to/3ohdnfW) - Annie Jacobsen - 
+- [The Glass Bathyscaphe](https://amzn.to/33G9bNs) - Alan Macfarlane and Penny Tweedie - A good read about how glass made many technologies possible. Imagine chemistry without glassware, biology without the optics of the microscope, it's impossible. A lot of fascinating history is included, what is the link between better bureaucracy and reading glasses? What about perspective in art, the window and projective geometry in mathematics? Very much worth reading.
+- [The Invention of the Modern World](https://amzn.to/3og2sDa) - Alan Macfarlane - A series of essays by the Cambridge anthropologist on how England and Great Britain came to be at the center of industrialization and modernization. Lots of fascinating tidbits about the relationship between religion and men, the pre-existing mechanisation with waterwheels and windmills and the social structure of the society. 
+- [Skunk Works](https://amzn.to/3w7DUPz) - Ben R. Rich and Leo Janos - An overview of one of the most innovative areas of aircraft design in the US. Lots of great information about the development of the U2 and everyone's favourite the SR-71. Goes into some detail about the first stealth fighter and how the whole Skunkworks was organized. Of note is the frustration with increasing security requirements that appeared from the 70's onwards. 
+- [Operation Paperclip](https://amzn.to/3ohdnfW) - Annie Jacobsen - I have no clue if this is the best history of operation paperclip but it seems alright. A good overview of how the US brought over numerous Nazi scientists in the immediate aftermath of the second world war and put them to work. Everyone knows about Werner Von Braun (who cares where the rockets come down?) and the role they played in the Apollo program, but lots of other details are fleshed out. Nerve gas, human exposure experiments to cold, plenty of nasty individuals came over!
 - [Masters of Doom](https://amzn.to/3uNtB32) - David Kushner - 
 - [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - 
 - [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - 
@@ -25,6 +25,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Things Fall Apart](https://amzn.to/3bn7uJ1) - Chinua Achebe - 
 - [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - 
 - [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - 
+- [Regional Advantage]()
 
 
 ### Biography - Auto and Otherwise
@@ -74,6 +75,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Ignition!](https://amzn.to/3uPSjzM) - John Drury Clark - 
 - [To Engineer is Human](https://amzn.to/3uK9NgO) - Henry Petroski - 
 - [Invention by Design](https://amzn.to/3eJKRR4) - Henry Petroski - 
+- [The Art of Doing Science and Engineering]() - Richard Hamming - 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
@@ -94,8 +96,10 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 
 **Papers**
-- [The Vibrational Properties of an Electron Gas]() - Dr. Anatoly Vlasov - 
-- [Hunting for Snarks in Quantum Mechanics]() - Dr. David Hestenes -
+- [The Vibrational Properties of an Electron Gas](http://stacks.iop.org/0038-5670/10/i=6/a=R01?key=crossref.aacb255e7c1db57247094a75ece8ff6d) - Dr. Anatoly Vlasov - 
+- [Asymmetric Electrostatic Radiation Shielding for Spacecraft](10.1109/AERO.2004.1367649) - Dr. Phil Metzger et al. - 
+- [Hunting for Snarks in Quantum Mechanics](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/abs/10.1063/1.3275605) - Dr. David Hestenes -
+- [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - 
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
