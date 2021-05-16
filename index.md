@@ -102,7 +102,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 
 **Interviews**
--[The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
+- [The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example, less so on other stuff), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
 
 **Books**
 - [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
@@ -116,6 +116,6 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - What it says on the box. 
 
 **Websites**
-- [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
-- [Fusor.net](https://fusor.net/) - 
-- [The Herbert Dingle Affair](https://planetofstorms.wordpress.com/2021/02/13/the-herbert-dingle-affair/) - How do you know what is true?
+- [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Dr. Scott Locklin - I can't remember when I stumbled on this blog, but I read it every time something new goes up. Lots of different things, always a unique viewpoint and points are made in the best most brutal fashion. I've been introduced to a lot of new ideas via the blog, one of my favourite posts is the [following](https://scottlocklin.wordpress.com/2013/03/07/the-enigma-of-the-ford-paradox/)on chaos and the Ford paradox. 
+- [Fusor.net](https://fusor.net/) - I've mentioned this elsewhere but in particular I'd like to highlight some of the [threads](https://fusor.net/board/viewforum.php?f=70&sid=5f110db5244fcd230c14c2ea0e675014) on the history of the fusor. These are first hand interviews Richard Hull undertook with many of the original fusor team at ITT. There's just no other way to hear about this stuff since many of them have since passed on. Absolutely worth reading. 
+- [The Herbert Dingle Affair](https://planetofstorms.wordpress.com/2021/02/13/the-herbert-dingle-affair/) - How do you know what is true? Surely science filters the wheat from the chaff and lets you triangulate what is correct?
