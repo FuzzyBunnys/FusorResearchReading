@@ -56,6 +56,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Pragmatic Programmer](https://amzn.to/3y9ZrJb) - David Thomas and Andrew Hunt - 
 - [Thinking Forth](https://amzn.to/2SQZBVP) - Leo Brodie - 
 - [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - 
+- [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - 
 
 ### Math
 **Books**
@@ -92,6 +93,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [To Engineer is Human](https://amzn.to/3uK9NgO) - Henry Petroski - 
 - [Invention by Design](https://amzn.to/3eJKRR4) - Henry Petroski - 
 - [The Art of Doing Science and Engineering]() - Richard Hamming - 
+- [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - 
+- [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
