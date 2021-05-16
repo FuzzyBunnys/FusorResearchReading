@@ -97,6 +97,10 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
 
 ### Physics
+**Videos**
+- [The Bogdanoffs](https://www.youtube.com/watch?v=2O1QA1VoRMM) - 
+
+
 **Interviews**
 -[The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
 
