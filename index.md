@@ -42,6 +42,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon -
 - [True Genius - The Life and Science of John Bardeen](https://amzn.to/33N5oOp) - Lillian Hodeson and Vicki Daitch - One thing I find very odd is how rarely the midwest of the United States is talked about as a hotbed of invention. People often like to discuss the Hungarians who built the bomb, and their undeniable genius, or Silicon Valley. But the midwest of the US birthed Claude Shannon, Robert Noyce, John Bardeen, The Wright Brothers, and Philo Farnsworth, to name a few. This book is a fascinating look at the Electrical Engineer who invented the transistor and then explained Type 1 Superconductivity, winning Nobel Prizes for both. His background, and his education was all through American institutions of Pre-War and immediate Post-War vintage. Forget DARPA, what social structures laid the groundwork for his work? We should want more of it.  
 - [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - 
+- [The Strangest Man](https://amzn.to/3wanNRc) - Graham Farmelo - 
+- [Einstein: His Life and Universe](https://amzn.to/2Rmj0NV) - Walter Isaacson - It's a biography of Einstein, what more needs to be said. 
 
 ## Techniques of Invention
 
@@ -57,6 +59,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first Linear Algebra course and just scraped through. I read most of this book over the course of a summer. I took my time and would work through the exercises as described, and for the first time, things like a basis and span and all these technical definitions really started to click! I keep meaning to finish the book and work through the second volume on vector and geometric calculus. 
 - [Quick Calculus](https://amzn.to/3uSLEVp) - Daniel Kleppner and Norman Ramsey - I worked through this calculus book the summer after graduating from SAIT based on a recommendation in the Art of Electronics. Very well done and a nice review.
 - [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson - One of the best teaching books I've ever read. I worked through the whole book in the fall of 2017, it was a wonderful review and provided some of the best ways intuitive ways of thinking about the integral and derivative as a beginner. If you want to refresh your calculus or learn it for the first time, there is no better book. 
+- [Logicomix](https://amzn.to/3hvA3Ia) - Apostolos Doxiadis and Christos Papadimitriou - 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
