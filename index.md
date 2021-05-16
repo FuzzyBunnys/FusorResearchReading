@@ -118,3 +118,4 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Scott Locklin -
 - [Fusor.net](https://fusor.net/) - 
+- [The Herbert Dingle Affair](https://planetofstorms.wordpress.com/2021/02/13/the-herbert-dingle-affair/) - How do you know what is true?
