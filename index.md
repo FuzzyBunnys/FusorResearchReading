@@ -34,7 +34,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Scientific Freedom the Elixir of Civilization](https://amzn.to/3tPj2uZ) - Donald Braben - 
 - [The HP Way](https://amzn.to/3tSs4Yf) - David Packard -
 - [Dealers of Lightning](https://amzn.to/3tSWKIw) - Michael A Hiltzik - 
-- [The Idea Factor](https://amzn.to/3tSWKIw) - Jon Gertner - 
+- [The Idea Factory](https://amzn.to/3tSWKIw) - Jon Gertner - 
 - [Where Wizards Stay Up Late](https://amzn.to/3w8mcLQ) - Katie Hafner - 
 
 
