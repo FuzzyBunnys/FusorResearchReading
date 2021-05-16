@@ -26,9 +26,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Glass Cage](https://amzn.to/3og3fUE) - Nicholas Carr - 
 - [Why Most Things Fail](https://amzn.to/33QtNlX) - Paul Ormerod - 
 - [Things Fall Apart](https://amzn.to/3bn7uJ1) - Chinua Achebe - When a man commits fully to his own culture and reaps the rewards only to see it utterly eroded by forces beyond his comprehension how does he respond? I think this is a tale of tragedy in the real world, but perhaps in the world of science it is the way things should be.  
-- [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - 
-- [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - 
-- [Regional Advantage](https://amzn.to/3uQAD74) - Anna Lee Saxenian - 
+- [Craeft](https://amzn.to/33HhWqj) - Alexander Langlands - In a similar vein as Everyday Technology but less academic and more popular. How is technological information transmitted across generations when the modern superstructure of public research universities and accreditation for professional careers doesn't exist? Lots of fascinating discussion about everything from how to make bee hives to fences. 
+- [Cognitive Gadgets](https://amzn.to/2RPtZzk) - Cecilia Hayes - How do we learn? [Plagiarism!](https://www.youtube.com/watch?v=gXlfXirQF3A). A very good book about how you should learn. Copying other people's work is highly underrated as a tool for improving. What else is a bibliography but a tool to allow you to figure out who to mimic? 
+- [Regional Advantage](https://amzn.to/3uQAD74) - Anna Lee Saxenian - How did Silicon Valley in the 50's 60's and 70's operate? What social norms drove the rapid improvement in transistor technology that gave us our modern world? Lot's of worthwhile tidbits, key amongst them was that employees were not punished for leaving and starting their own companies. Very often their previous employer would rehire them if the company failed, or do business with them if the new company produced something worthwhile. 
 - [The Complacent Class](https://amzn.to/3ePiC3B) - Tyler Cowen - 
 - [How the Scots Invented the Modern World](https://amzn.to/3tLuYO9) - Arthur Herman - 
 - [Scientific Freedom the Elixir of Civilization](https://amzn.to/3tPj2uZ) - Donald Braben - 
@@ -60,6 +60,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Quick Calculus](https://amzn.to/3uSLEVp) - Daniel Kleppner and Norman Ramsey - I worked through this calculus book the summer after graduating from SAIT based on a recommendation in the Art of Electronics. Very well done and a nice review.
 - [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson - One of the best teaching books I've ever read. I worked through the whole book in the fall of 2017, it was a wonderful review and provided some of the best ways intuitive ways of thinking about the integral and derivative as a beginner. If you want to refresh your calculus or learn it for the first time, there is no better book. 
 - [Logicomix](https://amzn.to/3hvA3Ia) - Apostolos Doxiadis and Christos Papadimitriou - 
+- [A History of Pi](https://amzn.to/3tTc20b) - Petr Beckmann - 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
