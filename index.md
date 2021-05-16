@@ -64,7 +64,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
 - [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
-
+- [Classical Roots of Knot Theory]() - Jozef H Przytycki - 
+- [What are the most important statistical ideas of the past 50 years]() - 
 
 **Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
