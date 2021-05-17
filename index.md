@@ -68,6 +68,11 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson - One of the best teaching books I've ever read. I worked through the whole book in the fall of 2017, it was a wonderful review and provided some of the best ways intuitive ways of thinking about the integral and derivative as a beginner. If you want to refresh your calculus or learn it for the first time, there is no better book. 
 - [Logicomix](https://amzn.to/3hvA3Ia) - Apostolos Doxiadis and Christos Papadimitriou - 
 - [A History of Pi](https://amzn.to/3tTc20b) - Petr Beckmann - 
+- [e The Story of a Number](https://amzn.to/3tVfLdE) - Eli Maor - 
+- [Who is Fourier?](https://amzn.to/3tUYl0G) - Transnational College of Lex - 
+- [Birth of a Theorem](https://amzn.to/3bwdsaq) - Cedric Villani -
+- [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - 
+- [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
