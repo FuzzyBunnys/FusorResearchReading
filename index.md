@@ -58,6 +58,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Thinking Forth](https://amzn.to/2SQZBVP) - Leo Brodie - 
 - [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - 
 - [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - 
+- [The Making of Prince of Persia](https://amzn.to/3yhZtPc) - Jordan Mechner - 
 
 ### Math
 **Books**
