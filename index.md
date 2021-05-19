@@ -49,6 +49,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - 
 - [The Strangest Man](https://amzn.to/3wanNRc) - Graham Farmelo - 
 - [Einstein: His Life and Universe](https://amzn.to/2Rmj0NV) - Walter Isaacson - It's a biography of Einstein, what more needs to be said. 
+- [The Man Who Loved Only Numbers](https://amzn.to/3hDkRbU) - Paul Hoffman - 
+- [Adventures of a Mathematician](https://amzn.to/2QtLfK6) - Stanislaw Ulam - 
 
 ## Techniques of Invention
 
@@ -66,13 +68,13 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Linear and Geometric Algebra](https://amzn.to/33JlI2B) - Dr. Alan Macdonald - I struggled in my first Linear Algebra course and just scraped through. I read most of this book over the course of a summer. I took my time and would work through the exercises as described, and for the first time, things like a basis and span and all these technical definitions really started to click! I keep meaning to finish the book and work through the second volume on vector and geometric calculus. 
 - [Quick Calculus](https://amzn.to/3uSLEVp) - Daniel Kleppner and Norman Ramsey - I worked through this calculus book the summer after graduating from SAIT based on a recommendation in the Art of Electronics. Very well done and a nice review.
 - [Calculus Made Easy](https://calculusmadeeasy.org/) - Silvanus P. Thompson - One of the best teaching books I've ever read. I worked through the whole book in the fall of 2017, it was a wonderful review and provided some of the best ways intuitive ways of thinking about the integral and derivative as a beginner. If you want to refresh your calculus or learn it for the first time, there is no better book. 
-- [Logicomix](https://amzn.to/3hvA3Ia) - Apostolos Doxiadis and Christos Papadimitriou - 
-- [A History of Pi](https://amzn.to/3tTc20b) - Petr Beckmann - 
+- [Logicomix](https://amzn.to/3hvA3Ia) - Apostolos Doxiadis and Christos Papadimitriou - This is a nice, but historically inaccurate (it's still very good!), overview of the advances in logic that took place between Bertrand Russell and Kurt Godel in the early part of the 20th century. If you want a layman's introduction to the whole debate it's hard to do better. Find out what his incompleteness theorem is in general terms! 
+- [A History of Pi](https://amzn.to/3tTc20b) - Petr Beckmann - The author has since veered off in to conspiratorial waters but this book is a wonderful history of how humanity has gotten better at calculating pi. Mathematics is the technology of thought and so advancement in computation in some vague sense also represents progress in mathematical technology. 
 - [e The Story of a Number](https://amzn.to/3tVfLdE) - Eli Maor - 
-- [Who is Fourier?](https://amzn.to/3tUYl0G) - Transnational College of Lex - 
-- [Birth of a Theorem](https://amzn.to/3bwdsaq) - Cedric Villani -
-- [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - 
-- [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - 
+- [Who is Fourier?](https://amzn.to/3tUYl0G) - Transnational College of Lex - I think along with Calculus Made Easy this book deserves a real spot on the shelf of anyone who wants to know how to write an easily understandable mathematics text. Written in a conversational form, by a group of people documenting their investigation of the Fourier transform the book covers both discrete and continuous cases and also for good measure has a fantastic explantion of the fast fourier transform. 
+- [Birth of a Theorem](https://amzn.to/3bwdsaq) - Cedric Villani - How does a top flight research mathematician (he won a fields medal) pursue research? Well here's a memoir straight from the horse's mouth. He discusses how he does his research, it's collaborative, and sometimes he lies on the floor of his office to clear his mind. I enjoyed reading it. 
+- [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - This was a very reassuring book for me to read. I think math is often very intimidating and confusing, and this guide helped minimize a lot of that intimidation for me. It's especially useful for when you're trying to crack into harder maths papers, she explains lots of the cultural context of math. 
+- [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - This book is sort of a current summary of the best research about how to learn. Lots of info about chunking, how to focus (love the Pomodoro technique!) and tons of other great tidbits. Super handy for any student. 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
