@@ -77,7 +77,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - This book is sort of a current summary of the best research about how to learn. Lots of info about chunking, how to focus (love the Pomodoro technique!) and tons of other great tidbits. Super handy for any student. 
 
 **Papers**
-- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations]() - Gian Carlo Rota -
+- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota -
 - [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
 - [Classical Roots of Knot Theory]() - Jozef H Przytycki - 
 - [What are the most important statistical ideas of the past 50 years]() - 
@@ -89,7 +89,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1) - Dr. Michael Penn - A great overview of differential forms that I completed in the spring of 2021. There's some hints that more videos might be added in the future, but currently it was a great introduction to modern methods of expressing Maxwell's Equations. 
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/) - - A great introduction to particle in cell simulations for plasmas. I was able to purchase the course as a student at a discount for $25. I took notes of all the videos and it was a great help for writing my own initial PIC simulation. 
 - [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Currently halfway through this series of videos taking notes as I go.
-- [Imaginary Numbers are Real](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) - Welch Labs - Complex numbers appear everywhere in electrical engineering and since I didn't feel especially confident with them after completing my SAIT diploma, so I worked through this series of videos along with the associated workbook. A wonderful short tutorial on complex numbers that goes all the way up to advanced concepts and lets you dip your toe in to some fascinating mathematics. 
+- [Imaginary Numbers are Real](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) - Welch Labs - Complex numbers appear everywhere in electrical engineering and since I didn't feel especially confident with them after completing my SAIT diploma, I worked through this series of videos along with the associated workbook. A wonderful short tutorial on complex numbers that goes all the way up to advanced concepts and lets you dip your toe in to some fascinating mathematics. 
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
