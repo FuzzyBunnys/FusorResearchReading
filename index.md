@@ -21,7 +21,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Decadent Society](https://amzn.to/3eLgEkE) - Ross Douthat - An essay about America and why she is the way she is right now. Probably best read in conjunction with Tyler Cowen's complacent class. Many comparisons to Rome and its fall from grace. Perhaps the best explanation of the current navel gazing American politics seems to be engaged in.
 - [The Origins of AIDS](https://amzn.to/2RjLzLV) - Jacques Pepin - When is a plague man-made and when is it not? A very thorough investigation into the origins of a slow burning disease. The construction of railways, hunting for game meat, poorly sterilized needles in public health campaigns, it's all in here. Very well written and laid out. 
 - [Everyday Technology](https://amzn.to/3eKPLgv) - David Arnold - Technology often means large projects to people. Think Apollo or the Manhattan Project, but in terms of day to day life it's often much more basic objects that create enduring change. We can no longer put a man on the moon, but everyone has a television in their house. This book looks at technological change in India through implements like the typewriter and sewing machine, very much worth reading to shift one's perspective on what real innovation for society looks like. 
-- [Cathedral Forge and Waterwheel](https://amzn.to/3ht7evQ) - Frances and Joseph Gies - 
+- [Cathedral Forge and Waterwheel](https://amzn.to/3ht7evQ) - Frances and Joseph Gies - After the collapse of Greece and Rome, and the passage of the Dark Ages, how did technology progress during the middle ages? The magnificent cathedrals of Europe show there was clearly some work ongoing, and the suits of armour of knights show a different type of technology. Lots of fascinating tidbits about guilds, and how things were passed from generation to generation. 
 - [Inviting Disaster - Lessons from the Edge of Technology](https://amzn.to/3w4fB56) - James R. Chiles - 
 - [The Glass Cage](https://amzn.to/3og3fUE) - Nicholas Carr - 
 - [Why Most Things Fail](https://amzn.to/33QtNlX) - Paul Ormerod - 
@@ -37,6 +37,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Idea Factory](https://amzn.to/3tSWKIw) - Jon Gertner - 
 - [Where Wizards Stay Up Late](https://amzn.to/3w8mcLQ) - Katie Hafner - 
 - [Arts and Minds](https://amzn.to/344cwpT) - Dr. Anton Howes - One of the things that is a little curious with England's industrialization is that it happened with so little state support. France spent a lot on promoting industry and England did not, why then did England industrialize first? Part of the answer might lie in the social structures that promoted innovation. Enter this book, worth reading, and I should add, Anton Howes [newsletter/blog](https://antonhowes.substack.com/welcome) is also very much worth subscribing too. 
+
+**Articles**
+- [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies)
 
 
 ### Biography - Auto and Otherwise
@@ -103,14 +106,14 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Invention by Design](https://amzn.to/3eJKRR4) - Henry Petroski - 
 - [The Art of Doing Science and Engineering]() - Richard Hamming - 
 - [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - 
-- [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - 
+- [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - Perhaps this belongs in the biography section, but its a very short read, just under 80 pages. It details the inventor of the first real microprocessor Ray Holt. Fresh out of university, with a single course in the subject under his belt, he designed from scratch a flight computer for the magnificent F-14 Tomcat. Some of the techniques and ideas he used were still bleeding edge nearly 50 years later in 2010. Intel's claims with calculator circuits pales in comparison. Really shows you what people can do when they hold themselves to a high standard. 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 
 **Books**
-- [My Life as a Quant](https://amzn.to/3uSggpW) - Emanuel Derman - 
-- [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - 
+- [My Life as a Quant](https://amzn.to/3uSggpW) - Emanuel Derman - A biography of a mathematical modeller originally from South Africa who came to finance by way of physics. Its generally interesting but also provides some specific colour about how and why Wall St really mathematized from the 70's onwards.
+- [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - Classic case study of 
 - [Models Behaving Badly](https://amzn.to/3tO4N9I) - Emanuel Derman - 
 - [Unknown Market Wizards](https://amzn.to/3eOKa9i) - Jack D Schwager - 
 - [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
