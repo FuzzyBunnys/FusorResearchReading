@@ -79,8 +79,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Birth of a Theorem](https://amzn.to/3bwdsaq) - Cedric Villani - How does a top flight research mathematician (he won a fields medal) pursue research? Well here's a memoir straight from the horse's mouth. He discusses how he does his research, it's collaborative, and sometimes he lies on the floor of his office to clear his mind. I enjoyed reading it. 
 - [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - This was a very reassuring book for me to read. I think math is often very intimidating and confusing, and this guide helped minimize a lot of that intimidation for me. It's especially useful for when you're trying to crack into harder maths papers, she explains lots of the cultural context of math. 
 - [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - This book is sort of a current summary of the best research about how to learn. Lots of info about chunking, how to focus (love the Pomodoro technique!) and tons of other great tidbits. Super handy for any student. 
-- [Blackjack Play like the Pros]() -
-- [The Collapse of Chaos]() -
+- [Blackjack Play like the Pros](https://amzn.to/2QG60Cz) - John Bukofsky - 
+- [The Collapse of Chaos](https://amzn.to/342ITVI) - Jack Cohen and Ian Stewart - 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota - A classic essay on what is important to teach in ODE's and what isn't. Very nice for a bit more context around math.
@@ -124,6 +124,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
 - [The Poker Face of Wall St.](https://amzn.to/2RFVJXj) - Aaron Brown - 
+- [A Man for All Markets](https://amzn.to/3fDTUSU) - Dr. Edward Thorpe - 
 
 ### Physics
 **Videos**
