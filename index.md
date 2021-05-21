@@ -62,7 +62,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Pragmatic Programmer](https://amzn.to/3y9ZrJb) - David Thomas and Andrew Hunt - 
 - [Thinking Forth](https://amzn.to/2SQZBVP) - Leo Brodie - 
 - [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - 
-- [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - 
+- [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - So many of the embedded programming techiques used today were first developed during the Apollo program. Here you can read about the whole process put together by a young man with some supervision and no real programming experience. Watchdog timers, priority execution, and all sorts of wonderful detail about how the LEM landed on the moon.  
 - [The Making of Prince of Persia](https://amzn.to/3yhZtPc) - Jordan Mechner - 
 
 ### Math
@@ -78,9 +78,11 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Birth of a Theorem](https://amzn.to/3bwdsaq) - Cedric Villani - How does a top flight research mathematician (he won a fields medal) pursue research? Well here's a memoir straight from the horse's mouth. He discusses how he does his research, it's collaborative, and sometimes he lies on the floor of his office to clear his mind. I enjoyed reading it. 
 - [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - This was a very reassuring book for me to read. I think math is often very intimidating and confusing, and this guide helped minimize a lot of that intimidation for me. It's especially useful for when you're trying to crack into harder maths papers, she explains lots of the cultural context of math. 
 - [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - This book is sort of a current summary of the best research about how to learn. Lots of info about chunking, how to focus (love the Pomodoro technique!) and tons of other great tidbits. Super handy for any student. 
+- [Blackjack Play like the Pros]() -
+- [The Collapse of Chaos]() -
 
 **Papers**
-- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota -
+- [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota - A classic essay on what is important to teach in ODE's and what isn't. Very nice for a bit more context around math.
 - [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
 - [Classical Roots of Knot Theory]() - Jozef H Przytycki - 
 - [What are the most important statistical ideas of the past 50 years]() - 
@@ -91,7 +93,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Topology and Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ) - Dr. Tadashi Tokieda - A fantastic course and a very good introduction to Topology. Again, I watched all the videos and took notes. It familiarized me with the field and also provided tremendous insight in to what mathematics really is and how it operates. To quote Dr. Tokieda: "that's what mathematics is, an analogy". 
 - [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1) - Dr. Michael Penn - A great overview of differential forms that I completed in the spring of 2021. There's some hints that more videos might be added in the future, but currently it was a great introduction to modern methods of expressing Maxwell's Equations. 
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/) - - A great introduction to particle in cell simulations for plasmas. I was able to purchase the course as a student at a discount for $25. I took notes of all the videos and it was a great help for writing my own initial PIC simulation. 
-- [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Currently halfway through this series of videos taking notes as I go.
+- [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Have finished this series and really enjoyed it. Not too long (only 10 videos), and it filled in some gaps that weren't possible to cover given time constraints in my intermediate ODE's course. Lots of neat new things about manifolds and normal forms!
 - [Imaginary Numbers are Real](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) - Welch Labs - Complex numbers appear everywhere in electrical engineering and since I didn't feel especially confident with them after completing my SAIT diploma, I worked through this series of videos along with the associated workbook. A wonderful short tutorial on complex numbers that goes all the way up to advanced concepts and lets you dip your toe in to some fascinating mathematics. 
 
 **Websites**
@@ -107,6 +109,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Art of Doing Science and Engineering]() - Richard Hamming - 
 - [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - 
 - [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - Perhaps this belongs in the biography section, but its a very short read, just under 80 pages. It details the inventor of the first real microprocessor Ray Holt. Fresh out of university, with a single course in the subject under his belt, he designed from scratch a flight computer for the magnificent F-14 Tomcat. Some of the techniques and ideas he used were still bleeding edge nearly 50 years later in 2010. Intel's claims with calculator circuits pales in comparison. Really shows you what people can do when they hold themselves to a high standard. 
+- [The Hardware Hacker]() - Bunnie Huang - 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
@@ -119,6 +122,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
 - [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
+- [The Poker Face of Wall St.]()
 
 ### Physics
 **Videos**
