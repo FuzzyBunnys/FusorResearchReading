@@ -7,6 +7,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ## How Does Invention Occur?
 **Videos**
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
+- [Looms, Weaving and Cumulative Culture](https://www.youtube.com/watch?v=yi7rYDkdSBA) - Christopher Buckley - Fascinating 3-part series about the cultural transmission of knowledge in the context of looms and weaving in southeast asia. Lots of great tidbits. 
 
 **Interviews**
 - [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
@@ -33,8 +34,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [How the Scots Invented the Modern World](https://amzn.to/3tLuYO9) - Arthur Herman - 
 - [Scientific Freedom the Elixir of Civilization](https://amzn.to/3tPj2uZ) - Donald Braben - 
 - [The HP Way](https://amzn.to/3tSs4Yf) - David Packard - Before it became a brand on personal computers, HP made lots of critical tools for electrical engineers. In fact Steve Wozniak got his start there. That part of the company now survives as Agilent I believe, but this is a description of how such an innovative company came to be. Lots of neat tidbits about California in the pre-war and post-war era. 
-- [Dealers of Lightning](https://amzn.to/3tSWKIw) - Michael A Hiltzik - 
-- [The Idea Factory](https://amzn.to/3tSWKIw) - Jon Gertner - 
+- [Dealers of Lightning](https://amzn.to/3tSWKIw) - Michael A Hiltzik - The sort of standard history of Xerox PARC and how they went about defining all of the desktop computer technology we use today. My favourite tidbit is that the secretaries of executives immediately understood the utility of the new computer, while their bosses did not. 
+- [The Idea Factory](https://amzn.to/3tSWKIw) - Jon Gertner - Everything came out of Bell Labs, the transistor, the CCD, the cell phone and on and on. This is a wonderful history of the whole place and how it did what it did. 
 - [Where Wizards Stay Up Late](https://amzn.to/3w8mcLQ) - Katie Hafner - 
 - [Arts and Minds](https://amzn.to/344cwpT) - Dr. Anton Howes - One of the things that is a little curious with England's industrialization is that it happened with so little state support. France spent a lot on promoting industry and England did not, why then did England industrialize first? Part of the answer might lie in the social structures that promoted innovation. Enter this book, worth reading, and I should add, Anton Howes [newsletter/blog](https://antonhowes.substack.com/welcome) is also very much worth subscribing too. 
 
@@ -109,7 +110,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Art of Doing Science and Engineering]() - Richard Hamming - 
 - [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - 
 - [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - Perhaps this belongs in the biography section, but its a very short read, just under 80 pages. It details the inventor of the first real microprocessor Ray Holt. Fresh out of university, with a single course in the subject under his belt, he designed from scratch a flight computer for the magnificent F-14 Tomcat. Some of the techniques and ideas he used were still bleeding edge nearly 50 years later in 2010. Intel's claims with calculator circuits pales in comparison. Really shows you what people can do when they hold themselves to a high standard. 
-- [The Hardware Hacker]() - Bunnie Huang - 
+- [The Hardware Hacker](https://amzn.to/2TaH8nl) - Bunnie Huang - 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
@@ -122,7 +123,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
 - [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
-- [The Poker Face of Wall St.]()
+- [The Poker Face of Wall St.](https://amzn.to/2RFVJXj) - Aaron Brown - 
 
 ### Physics
 **Videos**
