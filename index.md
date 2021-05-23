@@ -134,6 +134,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 **Interviews**
 - [The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example, less so on other stuff), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
+- [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information. 
 
 **Books**
 - [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
