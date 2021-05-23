@@ -112,6 +112,9 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - Perhaps this belongs in the biography section, but its a very short read, just under 80 pages. It details the inventor of the first real microprocessor Ray Holt. Fresh out of university, with a single course in the subject under his belt, he designed from scratch a flight computer for the magnificent F-14 Tomcat. Some of the techniques and ideas he used were still bleeding edge nearly 50 years later in 2010. Intel's claims with calculator circuits pales in comparison. Really shows you what people can do when they hold themselves to a high standard. 
 - [The Hardware Hacker](https://amzn.to/2TaH8nl) - Bunnie Huang - 
 
+**Interviews**
+- [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information.
+
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 
@@ -134,7 +137,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 **Interviews**
 - [The Portal - Roger Penrose](https://www.youtube.com/watch?v=mg93Dm-vYc8) - I normally try and listen to podcasts that are in the interviewer's area of expertise since they tend to be most interesting (Joe Rogan on fighting and comedy for example, less so on other stuff), and this is one of the few interviews with a mathematical physicist that didn't drive me absolutely bananas. Wonderful to listen to a Nobel prize winner discuss mathematics on a level that isn't just for the layman, very enlightening even if I couldn't follow a lot of it. 
-- [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information. 
+ 
 
 **Books**
 - [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
