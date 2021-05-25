@@ -104,11 +104,11 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 ### Engineering
 **Books**
 - [Debugging](https://amzn.to/3uO93HJ) - David Agans - 
-- [Ignition!](https://amzn.to/3uPSjzM) - John Drury Clark - 
+- [Ignition!](https://amzn.to/3uPSjzM) - John Drury Clark - Once a problem field has been defined, say fuels for rocket engines, how does one go about finding all the possible fuels and categorizing them? Sometimes very crudely, and sometimes very elegantly. This is a great book about the practice of chemistry in the service of a tightly defined task and all the trials and tribulations that go along with that. 
 - [To Engineer is Human](https://amzn.to/3uK9NgO) - Henry Petroski - 
 - [Invention by Design](https://amzn.to/3eJKRR4) - Henry Petroski - 
 - [The Art of Doing Science and Engineering]() - Richard Hamming - 
-- [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - 
+- [Spacesuit](https://amzn.to/3fnHfTV) - Nicholas de Monchaux - Words like bespoke and handcrafted seem inappropriate for things like the space program, but nothing could be further from the truth. Enter this fascinating, but academically written, monograph on the development of the spacesuit for the Apollo missions. Given the choice between a dedicated aerospace engineering firm and a company mostly known for making corsets and bras, who do you think would be better placed to make a spacesuit? The answer lies within this book!
 - [Accidental Engineer](https://amzn.to/3uUqmqj) - Ray Holt w/ Leo Sorge - Perhaps this belongs in the biography section, but its a very short read, just under 80 pages. It details the inventor of the first real microprocessor Ray Holt. Fresh out of university, with a single course in the subject under his belt, he designed from scratch a flight computer for the magnificent F-14 Tomcat. Some of the techniques and ideas he used were still bleeding edge nearly 50 years later in 2010. Intel's claims with calculator circuits pales in comparison. Really shows you what people can do when they hold themselves to a high standard. 
 - [The Hardware Hacker](https://amzn.to/2TaH8nl) - Bunnie Huang - 
 
@@ -120,9 +120,9 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 
 **Books**
 - [My Life as a Quant](https://amzn.to/3uSggpW) - Emanuel Derman - A biography of a mathematical modeller originally from South Africa who came to finance by way of physics. Its generally interesting but also provides some specific colour about how and why Wall St really mathematized from the 70's onwards.
-- [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - Classic case study of 
-- [Models Behaving Badly](https://amzn.to/3tO4N9I) - Emanuel Derman - 
-- [Unknown Market Wizards](https://amzn.to/3eOKa9i) - Jack D Schwager - 
+- [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - Classic case study of a mismatch between a mathematical trading model and reality. It very nearly broke the markets in 1998, and foreshadows a lot of the problems that happened later on in 2008. Very much worth reading. 
+- [Models Behaving Badly](https://amzn.to/3tO4N9I) - Emanuel Derman - A wonderful polemic about how people should use math to model things and how they should not. The author has spent a lot of time thinking about these things and it shows. Very much worth reading for people who are interested in how science can go wrong. I would be curious to know Dr. Derman's thoughts on Sabine Hossenfelder's most recent book, Lost in Math. 
+- [Unknown Market Wizards](https://amzn.to/3eOKa9i) - Jack D Schwager - Is it possible to beat the market? Yes, but you're probably not going to do it. Here is a series of interviews with individual traders who a long track record of continued success. I think there are a lot of lessons for people who want to find success in science here. You're trying to extract a signal from an incredibly noisy environment in science, a similar dynamic is underway with market traders. How do they succeed? 
 - [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
 - [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
