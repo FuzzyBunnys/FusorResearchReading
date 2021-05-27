@@ -87,6 +87,13 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
 - [Classical Roots of Knot Theory]() - Jozef H Przytycki - 
 - [What are the most important statistical ideas of the past 50 years]() - 
+- [Geometric Algebra Primer]() - Jaap Suter - 
+- [A History of Vector Analysis]() - Michael J Crowe - 
+- [Imaginary Numbers are Not Real]() - Stephen Gull, Anthony Lasenby, Chris Doran - 
+- [The Markov Chain Monte Carlo Revolution]() - Persi Diaconis -
+- [Off to Infinity in Finite Time]() - Donald G Saari and Zhihong Xia - 
+- [Knot Theory's Odd Origins]() - Daniel S. Silver -
+- [Knot Theory for 8 Year Olds]() - Dan Ghica - 
 
 **Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
@@ -150,6 +157,9 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Asymmetric Electrostatic Radiation Shielding for Spacecraft](10.1109/AERO.2004.1367649) - Dr. Phil Metzger et al. - 
 - [Hunting for Snarks in Quantum Mechanics](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/abs/10.1063/1.3275605) - Dr. David Hestenes -
 - [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - What it says on the box. 
+- [The World's Simplest Fusion Reactor and How to Make it Work]() - Tom Ligon - 
+- [Inertial Electrostatic Confinement of Ionized Fusion Gases]() - Robert L. Hirsch - 
+- [Simulating Physics With Computers]() - Richard P Feynman - 
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Dr. Scott Locklin - I can't remember when I stumbled on this blog, but I read it every time something new goes up. Lots of different things, always a unique viewpoint and points are made in the best, most brutal fashion. I've been introduced to a lot of new ideas via the blog, one of my favourite posts is the [following](https://scottlocklin.wordpress.com/2013/03/07/the-enigma-of-the-ford-paradox/) on chaos and the Ford paradox. 
