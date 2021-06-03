@@ -94,6 +94,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Off to Infinity in Finite Time]() - Donald G Saari and Zhihong Xia - 
 - [Knot Theory's Odd Origins]() - Daniel S. Silver -
 - [Knot Theory for 8 Year Olds]() - Dan Ghica - 
+- [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
 
 **Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
