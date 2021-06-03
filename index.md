@@ -84,16 +84,16 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota - A classic essay on what is important to teach in ODE's and what isn't. Very nice for a bit more context around math.
-- [A Revolution in Mathematics? What Really Happened a Century Ago]() - Frank Quinn - 
-- [Classical Roots of Knot Theory]() - Jozef H Przytycki - 
-- [What are the most important statistical ideas of the past 50 years]() - 
-- [Geometric Algebra Primer]() - Jaap Suter - 
-- [A History of Vector Analysis]() - Michael J Crowe - 
-- [Imaginary Numbers are Not Real]() - Stephen Gull, Anthony Lasenby, Chris Doran - 
-- [The Markov Chain Monte Carlo Revolution]() - Persi Diaconis -
-- [Off to Infinity in Finite Time]() - Donald G Saari and Zhihong Xia - 
-- [Knot Theory's Odd Origins]() - Daniel S. Silver -
-- [Knot Theory for 8 Year Olds]() - Dan Ghica - 
+- [A Revolution in Mathematics? What Really Happened a Century Ago](https://www.researchgate.net/publication/265069621_A_Revolution_in_Mathematics_What_Really_Happened_a_Century_Ago_and_Why_It_Matters_Today) - Frank Quinn - 
+- [Classical Roots of Knot Theory](https://www-sciencedirect-com.ezproxy.library.uvic.ca/science/article/pii/S0960077997001070) - Jozef H Przytycki - 
+- [What are the most important statistical ideas of the past 50 years](https://arxiv.org/abs/2012.00174) - Andrew Gelman and Aki Vehtari - 
+- [Geometric Algebra Primer](https://issuu.com/jaapsuter/docs/geometric-algebra) - Jaap Suter - This is a really concise introduction to geometric algebra. If you're looking to get an overview of the mathematical mechanics involved and how all the bits fit together I think this is the place to sart. 
+- [A History of Vector Analysis](https://www.researchgate.net/publication/244957729_A_History_of_Vector_Analysis) - Michael J Crowe - 
+- [Imaginary Numbers are Not Real](https://www.researchgate.net/publication/226188504_Imaginary_numbers_are_not_real-The_geometric_algebra_of_spacetime) - Stephen Gull, Anthony Lasenby, Chris Doran - 
+- [The Markov Chain Monte Carlo Revolution](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) - Persi Diaconis -
+- [Off to Infinity in Finite Time](https://www.ams.org/notices/199505/saari-2.pdf) - Donald G Saari and Zhihong Xia - 
+- [Knot Theory's Odd Origins](https://www.maths.ed.ac.uk/~v1ranick/papers/silver.pdf) - Daniel S. Silver -
+- [Knot Theory for 8 Year Olds](https://www.atm.org.uk/write/MediaUploads/Journals/MT264/MT26414.pdf) - Dan Ghica - 
 - [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
 
 **Courses**
