@@ -11,6 +11,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 **Interviews**
 - [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
+- [The Tim Ferriss Show - Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/) - I think a lot of creative work has some fundamental similarities. Making a new scientific theory, creating a work of art, writing a novel, or making new jokes, these are all making a new thing. Jerry Seinfeld in particular has had a very long creative career, and he's handled the transition from network TV to the internet very well. I think his Comedians in Cars getting Coffee series is the most youtubey professional show I've ever watched. So in that vein, why not listen to the guy to figure out how he's stayed so creatively productive for so long?
 
 ### History + Sociology
 **Books**
