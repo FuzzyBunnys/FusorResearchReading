@@ -82,7 +82,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [How to Study for a Mathematics Degree](https://amzn.to/3v0JDqg) - Dr. Lara Alcock - This was a very reassuring book for me to read. I think math is often very intimidating and confusing, and this guide helped minimize a lot of that intimidation for me. It's especially useful for when you're trying to crack into harder maths papers, she explains lots of the cultural context of math. 
 - [A Mind for Numbers](https://amzn.to/2SXbVUx) - Dr. Barbara Oakley - This book is sort of a current summary of the best research about how to learn. Lots of info about chunking, how to focus (love the Pomodoro technique!) and tons of other great tidbits. Super handy for any student. 
 - [Blackjack Play like the Pros](https://amzn.to/2QG60Cz) - John Bukofsky - Card counting is really interesting, it's not as lucrative as it used to be, because Casinos can do math too and have figured out how to reduce the edge. It can still be profitable though, if you have the willingness to practice it enough to get an edge. I don't, but reading through this book and playing with some cards sure taught me a lot about the practical application of probability to the real world. 
-- [The Collapse of Chaos](https://amzn.to/342ITVI) - Jack Cohen and Ian Stewart - 
+- [The Collapse of Chaos](https://amzn.to/342ITVI) - Jack Cohen and Ian Stewart - Very often people ask how Chaos occurs, but this flips the question, how does stability appear out of chaos? Very nice read and a good popular math book. 
 
 **Papers**
 - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf) - Gian Carlo Rota - A classic essay on what is important to teach in ODE's and what isn't. Very nice for a bit more context around math.
@@ -97,6 +97,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Knot Theory's Odd Origins](https://www.maths.ed.ac.uk/~v1ranick/papers/silver.pdf) - Daniel S. Silver -
 - [Knot Theory for 8 Year Olds](https://www.atm.org.uk/write/MediaUploads/Journals/MT264/MT26414.pdf) - Dan Ghica - 
 - [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
+- [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236) - William P. Thurston - A lovely essay on what understanding and the transmission of knowledge across mathematical generations means. How much is lost when someone dies, very interesting to read in conjunction with The Forgotten Revolution. 
 
 **Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
