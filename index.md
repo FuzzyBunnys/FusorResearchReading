@@ -41,7 +41,8 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [Arts and Minds](https://amzn.to/344cwpT) - Dr. Anton Howes - One of the things that is a little curious with England's industrialization is that it happened with so little state support. France spent a lot on promoting industry and England did not, why then did England industrialize first? Part of the answer might lie in the social structures that promoted innovation. Enter this book, worth reading, and I should add, Anton Howes [newsletter/blog](https://antonhowes.substack.com/welcome) is also very much worth subscribing too. 
 
 **Articles**
-- [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies)
+- [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - 
+- [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - 
 
 
 ### Biography - Auto and Otherwise
