@@ -42,7 +42,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - 
-- [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - 
+- [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - Logic is a really clumsy tool. When the domain it works in is well defined its very useful, but that's almost never the case. As far as I can tell most of mathematics is about defining the domain so that the tools of logic and calculation can be applied to it. If you're trying to do a new thing in a new domain that is not well defined how much can you trust the "conclusions" that have been made? I don't think very much, I think something very similar to what the child in this article does is what happens with most new research. You have to make those erroneous conclusions though to be able to make the correct ones later on.
 
 
 ### Biography - Auto and Otherwise
