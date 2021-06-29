@@ -160,6 +160,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Einstein's Clocks, Poincare's Maps](https://amzn.to/3fpc0HU) - Peter Galison - I found this book difficult to read, but it is filled with the most wonderful information. Why did Einstein use a train for his gedankenexperiment? Maybe it was because he was a patent clerk reviewing patent applications for clocks to synchronize train schedules across Switzerland. Deeply important to read to understand how theory is subordinate to the real engineering problems of the physical world. 
 - [Models of the Atomic Nucleus](https://amzn.to/2Rhmlhp) - Norman D Cook - 
 - [The Second Kind of Impossible](https://amzn.to/3fPSIx2) - Paul Steinhardt - 
+- [Big Science: Ernest Lawrence and the Invention that Launched the Military-Industrial Complex](https://amzn.to/3h1vch0) - Michael Hiltzik - 
 
 **Papers**
 - [The Vibrational Properties of an Electron Gas](http://stacks.iop.org/0038-5670/10/i=6/a=R01?key=crossref.aacb255e7c1db57247094a75ece8ff6d) - Dr. Anatoly Vlasov - 
