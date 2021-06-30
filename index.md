@@ -126,6 +126,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 - [The Hardware Hacker](https://amzn.to/2TaH8nl) - Bunnie Huang - So you want to make an electronic doodad yourself but don't have a good idea of the process? Read this book, it covers everything, prototyping, BOM's, talking to factories, test jigs. It's all here. 
 - [The Soul of a New Machine](https://amzn.to/3dhwrX0) - Tracy Kidder - 
 - [The New New Thing](https://amzn.to/3xU9m4K)- Michael Lewis - 
+- [The Cuckoo's Egg](https://amzn.to/3y34Xwm)- Cliff Stoll - Just a first rate story, and a wonderful tale about persistence and pursuing weird things. Loved it. 
 
 **Interviews**
 - [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information.
