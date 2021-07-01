@@ -2,7 +2,7 @@
 
 I've been doing a lot of reading and research regarding the Fusor. I have some things I want to try with it, rather than just simply ticking the box on achieving fusion, and that means I need some new ideas. This page is a listing of information, math, videos, books, articles etc. that I have read and I think are generally pertinent towards this goal. I'm really not too sure how to organize all this, it's not like I have some sort of system setup, basically if I think a bit of information is interesting I read/watch/engage with it and then I put it up here. Included are things about modern science, ancient science, mathematics, hoaxes, frauds, engineering, sociology, and on and on. I'm slowly adding everything I've done so far, and I'll try to include short comments where appropriate, but as of right now the list is incomplete! Rest assured I found everything here interesting. 
 
-Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC and Why it Had to be Reborn](https://www.amazon.ca/gp/product/3540200681/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=3540200681&linkCode=as2&tag=nkrause-20&linkId=6b1b4303ea4c2b0ac45a1005db0a5e8c)
+Currently Reading - [Making PCR: A Story of Biotechnology](https://amzn.to/3xa9ZXS) - Paul Rainbow - 
 
 ## How Does Invention Occur?
 **Videos**
@@ -15,6 +15,7 @@ Currently Reading - [The Forgotten Revolution: How Science Was Born in 300 BC an
 
 ### History + Sociology
 **Books**
+- [The Forgotten Revolution: How Science Was Born in 300 BC and Why it Had to be Reborn](https://amzn.to/3jEneMN) - Lucio Rosso - Worth reading for its description of science alone. If I had to summarize the book in a single sentence I'd go with "Read old nearly forgotten work to make something new". 
 - [The Glass Bathyscaphe](https://amzn.to/33G9bNs) - Alan Macfarlane and Penny Tweedie - A good read about how glass made many technologies possible. Imagine chemistry without glassware, biology without the optics of the microscope, it's impossible. A lot of fascinating history is included, what is the link between better bureaucracy and reading glasses? What about perspective in art, the window and projective geometry in mathematics? Very much worth reading.
 - [The Invention of the Modern World](https://amzn.to/3og2sDa) - Alan Macfarlane - A series of essays by the Cambridge anthropologist on how England and Great Britain came to be at the center of industrialization and modernization. Lots of fascinating tidbits about the relationship between religion and men, the pre-existing mechanisation with waterwheels and windmills and the social structure of the society. 
 - [Skunk Works](https://amzn.to/3w7DUPz) - Ben R. Rich and Leo Janos - An overview of one of the most innovative areas of aircraft design in the US. Lots of great information about the development of the U2 and everyone's favourite the SR-71. Goes into some detail about the first stealth fighter and how the whole Skunkworks was organized. Of note is the frustration with increasing security requirements that appeared from the 70's onwards. 
