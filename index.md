@@ -141,9 +141,9 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [When Genius Failed](https://amzn.to/2RPBKFs) - Roger Lowenstein - Classic case study of a mismatch between a mathematical trading model and reality. It very nearly broke the markets in 1998, and foreshadows a lot of the problems that happened later on in 2008. Very much worth reading. 
 - [Models Behaving Badly](https://amzn.to/3tO4N9I) - Emanuel Derman - A wonderful polemic about how people should use math to model things and how they should not. The author has spent a lot of time thinking about these things and it shows. Very much worth reading for people who are interested in how science can go wrong. I would be curious to know Dr. Derman's thoughts on Sabine Hossenfelder's most recent book, Lost in Math. 
 - [Unknown Market Wizards](https://amzn.to/3eOKa9i) - Jack D Schwager - Is it possible to beat the market? Yes, but you're probably not going to do it. Here is a series of interviews with individual traders who have a long track record of continued success. I think there are a lot of lessons for people who want to find success in science here. You're trying to extract a signal from an incredibly noisy environment in science, a similar dynamic is underway with market traders. How do they succeed? 
-- [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - 
-- [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb -
-- [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb -
+- [Fooled by Randomness](https://amzn.to/3btDhrH) - Nicholas Nassim Taleb - His best book.
+- [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb - His second best book.
+- [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb - His third best book. 
 - [The Poker Face of Wall St.](https://amzn.to/2RFVJXj) - Aaron Brown - I really liked this book, lots of ways of looking at risk in investing through the frame of successful gamblers. A very neat historical fact was teased regarding the Yukon gold rush, poker there was some sort of local pool of winnings that allowed a member of the poker players group to make enough to actually leave. You couldn't play at the table unless you'd put your time in looking for gold. Super neat local credit structure. 
 - [A Man for All Markets](https://amzn.to/3fDTUSU) - Dr. Edward Thorpe - 
 
