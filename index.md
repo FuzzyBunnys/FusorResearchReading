@@ -65,7 +65,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 
 ### Programming
 **Books**
-- [The Pragmatic Programmer](https://amzn.to/3y9ZrJb) - David Thomas and Andrew Hunt - 
+- [The Pragmatic Programmer](https://amzn.to/3y9ZrJb) - David Thomas and Andrew Hunt - A great dissertation on becoming a craftsman. Very useful information for programmers. 
 - [Thinking Forth](https://amzn.to/2SQZBVP) - Leo Brodie - 
 - [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - A series of interviews with a group of very talented coders. Lots of the technical specifics already feel quite dated in the book, but I think there's a ton of great information about how these people go about reading and writing code. How they debug and tackle a problem is really interesting to read about. 
 - [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - So many of the embedded programming techiques used today were first developed during the Apollo program. Here you can read about the whole process put together by a young man with some supervision and no real programming experience. Watchdog timers, priority execution, and all sorts of wonderful detail about how the LEM landed on the moon.  
@@ -96,7 +96,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [A History of Vector Analysis](https://www.researchgate.net/publication/244957729_A_History_of_Vector_Analysis) - Michael J Crowe - 
 - [Imaginary Numbers are Not Real](https://www.researchgate.net/publication/226188504_Imaginary_numbers_are_not_real-The_geometric_algebra_of_spacetime) - Stephen Gull, Anthony Lasenby, Chris Doran - 
 - [The Markov Chain Monte Carlo Revolution](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) - Persi Diaconis -
-- [Off to Infinity in Finite Time](https://www.ams.org/notices/199505/saari-2.pdf) - Donald G Saari and Zhihong Xia - 
+- [Off to Infinity in Finite Time](https://www.ams.org/notices/199505/saari-2.pdf) - Donald G Saari and Zhihong Xia - The insights in this paper, that there are solutions to the n-body problem where particles go off to infinity in finite time is a teensy bit important if you are trying to model a large number of charged particles to gain insight into their behaviour. It dovetails nicely with a John Carlos Baez series about [continuinty](https://johncarlosbaez.wordpress.com/2016/09/08/struggles-with-the-continuum-part-1/) in mathematics. 
 - [Knot Theory's Odd Origins](https://www.maths.ed.ac.uk/~v1ranick/papers/silver.pdf) - Daniel S. Silver -
 - [Knot Theory for 8 Year Olds](https://www.atm.org.uk/write/MediaUploads/Journals/MT264/MT26414.pdf) - Dan Ghica - 
 - [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
