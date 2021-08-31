@@ -109,8 +109,9 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Differential Forms](https://www.youtube.com/watch?v=PaWj0WxUxGg&list=PL22w63XsKjqzQZtDZO_9s2HEMRJnaOTX7&index=1) - Dr. Michael Penn - A great overview of differential forms that I completed in the spring of 2021. There's some hints that more videos might be added in the future, but currently it was a great introduction to modern methods of expressing Maxwell's Equations. 
 - [Particle in Cell Fundamentals](https://www.particleincell.com/pic-fundamentals/) - - A great introduction to particle in cell simulations for plasmas. I was able to purchase the course as a student at a discount for $25. I took notes of all the videos and it was a great help for writing my own initial PIC simulation. 
 - [Center Manifolds, Normal Forms and Bifurcations](https://www.youtube.com/playlist?list=PLUeHTafWecAVblNx278wBxkIQXw7iJws3) - Dr. Shane Ross - Have finished this series and really enjoyed it. Not too long (only 10 videos), and it filled in some gaps that weren't possible to cover given time constraints in my intermediate ODE's course. Lots of neat new things about manifolds and normal forms!
+- [Advanced Dynamics - Hamiltonian Systems and Nonlinear Dynamics](https://www.youtube.com/watch?v=pB-aleLeKL0&list=PLUeHTafWecAVCauQ541UBrfGqHQwuHq_2&index=1) - Dr. Shane Ross -
 - [Imaginary Numbers are Real](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) - Welch Labs - Complex numbers appear everywhere in electrical engineering and since I didn't feel especially confident with them after completing my SAIT diploma, I worked through this series of videos along with the associated workbook. A wonderful short tutorial on complex numbers that goes all the way up to advanced concepts and lets you dip your toe in to some fascinating mathematics. 
-- [Knot Theory](https://www.youtube.com/watch?v=EBWP1POPc2A&list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY&index=1) - Dr. Bosman - 
+
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
@@ -164,6 +165,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Models of the Atomic Nucleus](https://amzn.to/2Rhmlhp) - Norman D Cook - 
 - [The Second Kind of Impossible](https://amzn.to/3fPSIx2) - Paul Steinhardt - 
 - [Big Science: Ernest Lawrence and the Invention that Launched the Military-Industrial Complex](https://amzn.to/3h1vch0) - Michael Hiltzik - 
+- [Teach Yourself Physics](https://amzn.to/3zqTO9P) - Jakob Schwichtenberg- Wonderful easy read. Worth it alone for the list of books and resources the author mentions. Very nice for a general quick overview of the major theories of modern physics and how to self-study them. 
 
 **Papers**
 - [The Vibrational Properties of an Electron Gas](http://stacks.iop.org/0038-5670/10/i=6/a=R01?key=crossref.aacb255e7c1db57247094a75ece8ff6d) - Dr. Anatoly Vlasov - 
