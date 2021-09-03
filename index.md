@@ -55,11 +55,11 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Man Who Changed Everything](https://amzn.to/3fdm6M8) - Basil Mahon - James Clerk Maxwell, the great genius of the 19th century whose theoretical explanation of electromagnetic waves laid the foundation of modern society. A wonderful view in to his slightly tragic life. 
 - [True Genius - The Life and Science of John Bardeen](https://amzn.to/33N5oOp) - Lillian Hodeson and Vicki Daitch - One thing I find very odd is how rarely the midwest of the United States is talked about as a hotbed of invention. People often like to discuss the Hungarians who built the bomb, and their undeniable genius, or Silicon Valley. But the midwest of the US birthed Claude Shannon, Robert Noyce, John Bardeen, The Wright Brothers, and Philo Farnsworth, to name a few. This book is a fascinating look at the Electrical Engineer who invented the transistor and then explained Type 1 Superconductivity, winning Nobel Prizes for both. His background, and his education was all through American institutions of Pre-War and immediate Post-War vintage. Forget DARPA, what social structures laid the groundwork for his work? We should want more of it.  
 - [The Dream Machine](https://amzn.to/3hsdWlY) - M. Mitchell Waldorp - The invention of the internet is one of the larger technological changes that has been undertaken in the modern era. The man in charge of the research program that created it's initial form, ARPAnet, is described in this book. Well worth reading for a perspective on how the research was organized and how the talented individuals who worked on these projects were brought together. 
-- [The Strangest Man](https://amzn.to/3wanNRc) - Graham Farmelo - 
+- [The Strangest Man](https://amzn.to/3wanNRc) - Graham Farmelo - A biography of Dirac, of note is his education began in a technical school for electrician types. 
 - [Einstein: His Life and Universe](https://amzn.to/2Rmj0NV) - Walter Isaacson - It's a biography of Einstein, what more needs to be said. 
-- [The Man Who Loved Only Numbers](https://amzn.to/3hDkRbU) - Paul Hoffman - 
-- [Adventures of a Mathematician](https://amzn.to/2QtLfK6) - Stanislaw Ulam - 
-- [The Man Behind the Microchip](https://amzn.to/34LHfYW) - Leslie Berlin - 
+- [The Man Who Loved Only Numbers](https://amzn.to/3hDkRbU) - Paul Hoffman - About Paul Erdos, used a lot of amphetamines and cared only about mathematics. A very curious man.
+- [Adventures of a Mathematician](https://amzn.to/2QtLfK6) - Stanislaw Ulam - A wonderful read about a well lived life, his key insight about the hydrogen bomb is why the detonation device is known as the Ulam-Teller mechanism.
+- [The Man Behind the Microchip](https://amzn.to/34LHfYW) - Leslie Berlin - A great read about Robert Noyce, one of the key figures in Silicon Valley from his work at Fairchild and later Intel. 
 
 ## Techniques of Invention
 
