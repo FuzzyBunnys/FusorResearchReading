@@ -176,7 +176,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Overview of University of Wisconsin Inertial-Electrostatic Confinement Fusion](https://doi.org/10.13182/FST05-A857) - Multiple Authors - What it says on the box. 
 - [The World's Simplest Fusion Reactor and How to Make it Work]() - Tom Ligon - 
 - [Inertial Electrostatic Confinement of Ionized Fusion Gases]() - Robert L. Hirsch - 
-- [Simulating Physics With Computers]() - Richard P Feynman - 
+- [Simulating Physics With Computers](http://physics.whu.edu.cn/dfiles/wenjian/1_00_QIC_Feynman.pdf) - Richard P Feynman - 
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Dr. Scott Locklin - I can't remember when I stumbled on this blog, but I read it every time something new goes up. Lots of different things, always a unique viewpoint and points are made in the best, most brutal fashion. I've been introduced to a lot of new ideas via the blog, one of my favourite posts is the [following](https://scottlocklin.wordpress.com/2013/03/07/the-enigma-of-the-ford-paradox/) on chaos and the Ford paradox. 
