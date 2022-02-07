@@ -12,6 +12,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 **Interviews**
 - [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
 - [The Tim Ferriss Show - Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/) - I think a lot of creative work has some fundamental similarities. Making a new scientific theory, creating a work of art, writing a novel, or making new jokes, these are all making a new thing. Jerry Seinfeld in particular has had a very long creative career, and he's handled the transition from network TV to the internet very well. I think his Comedians in Cars getting Coffee series is the most youtubey professional show I've ever watched. So in that vein, why not listen to the guy to figure out how he's stayed so creatively productive for so long?
+- [Jim Clark - Oral History](https://www.computerhistory.org/collections/catalog/102795133) - Besides being a wonderful character in Stephen Lewis' The New New Thing, he's had his hand in a lot of technology that directly impacted me. He helped bring computer special effects to the fore with his company Silicon Graphics seen most vividly in the greatest movie of the 90's Jurassic Park, he created the chip that powered the Nintendo 64 that I played for hours with my friends growing up, and he ushered in the internet revolution by founding Netscape with Marc Andreessen. Just a fascinating tale all around. 
 
 ### History + Sociology
 **Books**
@@ -41,12 +42,15 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The HP Way](https://amzn.to/3tSs4Yf) - David Packard - Before it became a brand on personal computers, HP made lots of critical tools for electrical engineers. In fact Steve Wozniak got his start there. That part of the company now survives as Agilent I believe, but this is a description of how such an innovative company came to be. Lots of neat tidbits about California in the pre-war and post-war era. 
 - [Dealers of Lightning](https://amzn.to/3tSWKIw) - Michael A Hiltzik - The sort of standard history of Xerox PARC and how they went about defining all of the desktop computer technology we use today. My favourite tidbit is that the secretaries of executives immediately understood the utility of the new computer, while their bosses did not. 
 - [The Idea Factory](https://amzn.to/3tSWKIw) - Jon Gertner - Everything came out of Bell Labs, the transistor, the CCD, the cell phone and on and on. This is a wonderful history of the whole place and how it did what it did. 
-- [Where Wizards Stay Up Late](https://amzn.to/3w8mcLQ) - Katie Hafner - 
+- [Where Wizards Stay Up Late](https://amzn.to/3w8mcLQ) - Katie Hafner - It's a history of the early internet, covers the work done in Boston by BBN, the early nodes, how TCP/IP was invented and some of the comment letters. Good overview.
 - [Arts and Minds](https://amzn.to/344cwpT) - Dr. Anton Howes - One of the things that is a little curious with England's industrialization is that it happened with so little state support. France spent a lot on promoting industry and England did not, why then did England industrialize first? Part of the answer might lie in the social structures that promoted innovation. Enter this book, worth reading, and I should add, Anton Howes [newsletter/blog](https://antonhowes.substack.com/welcome) is also very much worth subscribing too. 
+- [Where is my Flying Car](https://press.stripe.com/where-is-my-flying-car) - J. Storrs Hall - I found this book intensely frustrating. It is at it's most interesting when the author is pointing out tidbits like the fact that an increase in government funding for science appears to be correlated with a reduction in innovation (see Anton Howes and England v. France in industrialization?). His description of flying cars and the stifling of innovation there with past appetites for greater risk is compelling, but then he veers off into as far as I can tell crackpot territory. His description of nanoscale technologies and how these things could just be strikes me as ludicrous. Nothing behaves the way we expect at the small scale. For example, gold is purple if you turn it into a nano-particle, how do lubricants work? What about friction? I think it is fascinating we have control over atomic scales with advanced lithography, but those are essentially chemical techniques that have scaled down well with the goals in mind. I think a lot of making things that works is picking the right model that informs your decisions. I am skeptical that we have good models for small scales. 
+- [The Revolt of the Public](https://press.stripe.com/the-revolt-of-the-public) - Martin Gurri - This book is a fascinating read given the current context, the yellow vest protest in France, protests in Chile etc. that seem to have no leader and no end. I am curious though, about whether its ideas can be applied earlier, perhaps to the scientific domain. Maybe part of the reason science has produced so little innovation since the 1970's is that there was a sort of analogous revolt against the elite funding mechanisms in the scientific community. 
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - 
 - [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - Logic is a really clumsy tool. When the domain it works in is well defined its very useful, but that's almost never the case. As far as I can tell most of mathematics is about defining the domain so that the tools of logic and calculation can be applied to it. If you're trying to do a new thing in a new domain that is not well defined how much can you trust the "conclusions" that have been made? I don't think very much, I think something very similar to what the child in this article does is what happens with most new research. You have to make those erroneous conclusions though to be able to make the correct ones later on.
+- [The Collapse of Rational Certainty](https://meaningness.com/collapse-of-rational-certainty) - David Chapman - David Chapman's blog is consistently interesting, this is a great quick overview of the scientific developments in math and physics that caused a crisis of rationality. Very nice to have this put together in a coherent way. 
 
 
 ### Biography - Auto and Otherwise
@@ -62,6 +66,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Man Who Loved Only Numbers](https://amzn.to/3hDkRbU) - Paul Hoffman - About Paul Erdos, used a lot of amphetamines and cared only about mathematics. A very curious man.
 - [Adventures of a Mathematician](https://amzn.to/2QtLfK6) - Stanislaw Ulam - A wonderful read about a well lived life, his key insight about the hydrogen bomb is why the detonation device is known as the Ulam-Teller mechanism.
 - [The Man Behind the Microchip](https://amzn.to/34LHfYW) - Leslie Berlin - A great read about Robert Noyce, one of the key figures in Silicon Valley from his work at Fairchild and later Intel. 
+
 
 ## Techniques of Invention
 
@@ -119,8 +124,9 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
- 
 
+ **Videos**
+- [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
 ### Engineering
 **Books**
 - [Debugging](https://amzn.to/3uO93HJ) - David Agans - This book is supposedly specific to programming, but it's rules for debugging are applicable to all sorts of technical problems. Very nice quick and easy read and filled with practical advice. 
@@ -138,6 +144,8 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 **Interviews**
 - [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information.
 
+**Articles**
+- [Coping with the Complexity of Microprocessor Design at Intel – A CAD History](https://www.researchgate.net/publication/268005718_Coping_with_the_Complexity_of_Microprocessor_Design_at_Intel_-_A_CAD_History)- Multiple Authors - This is a quick overview of how CAD tools at Intel evolved to keep pace with the scope of Moore's Law. Interesting lessons about accepting new technologies, standardization and the powers that come with it. 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 
