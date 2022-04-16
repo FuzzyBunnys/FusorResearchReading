@@ -154,6 +154,8 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 
 **Articles**
 - [Coping with the Complexity of Microprocessor Design at Intel – A CAD History](https://www.researchgate.net/publication/268005718_Coping_with_the_Complexity_of_Microprocessor_Design_at_Intel_-_A_CAD_History)- Multiple Authors - This is a quick overview of how CAD tools at Intel evolved to keep pace with the scope of Moore's Law. Interesting lessons about accepting new technologies, standardization and the powers that come with it. 
+
+
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
 
