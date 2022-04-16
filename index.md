@@ -13,6 +13,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
 - [The Tim Ferriss Show - Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/) - I think a lot of creative work has some fundamental similarities. Making a new scientific theory, creating a work of art, writing a novel, or making new jokes, these are all making a new thing. Jerry Seinfeld in particular has had a very long creative career, and he's handled the transition from network TV to the internet very well. I think his Comedians in Cars getting Coffee series is the most youtubey professional show I've ever watched. So in that vein, why not listen to the guy to figure out how he's stayed so creatively productive for so long?
 - [Jim Clark - Oral History](https://www.computerhistory.org/collections/catalog/102795133) - Besides being a wonderful character in Stephen Lewis' The New New Thing, he's had his hand in a lot of technology that directly impacted me. He helped bring computer special effects to the fore with his company Silicon Graphics seen most vividly in the greatest movie of the 90's Jurassic Park, he created the chip that powered the Nintendo 64 that I played for hours with my friends growing up, and he ushered in the internet revolution by founding Netscape with Marc Andreessen. Just a fascinating tale all around. 
+- [Margaret Hamilton - Oral History](https://www.computerhistory.org/collections/catalog/102738243) - One of the greats, so much fascinating work was done. Her role in the initial discovery of chaos theory (she did a bunch of programming for Edward Lorenz), her work on Apollo, error detection, so many things! Just foundational stuff.
 
 ### History + Sociology
 **Books**
@@ -131,7 +132,7 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
-- [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part seris on youtube. 
+- [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part series on youtube. 
 ### Engineering
 **Books**
 - [Debugging](https://amzn.to/3uO93HJ) - David Agans - This book is supposedly specific to programming, but it's rules for debugging are applicable to all sorts of technical problems. Very nice quick and easy read and filled with practical advice. 
