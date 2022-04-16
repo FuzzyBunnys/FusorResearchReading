@@ -131,6 +131,7 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
+- [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part seris on youtube. 
 ### Engineering
 **Books**
 - [Debugging](https://amzn.to/3uO93HJ) - David Agans - This book is supposedly specific to programming, but it's rules for debugging are applicable to all sorts of technical problems. Very nice quick and easy read and filled with practical advice. 
