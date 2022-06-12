@@ -69,6 +69,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Adventures of a Mathematician](https://amzn.to/2QtLfK6) - Stanislaw Ulam - A wonderful read about a well lived life, his key insight about the hydrogen bomb is why the detonation device is known as the Ulam-Teller mechanism.
 - [The Man Behind the Microchip](https://amzn.to/34LHfYW) - Leslie Berlin - A great read about Robert Noyce, one of the key figures in Silicon Valley from his work at Fairchild and later Intel. 
 - [Droidmaker](https://www.droidmaker.com/) - Michael Rubin - I think LucasFilm should be right up there with places like Xerox PARC and Bell Labs. So much groundbreaking innovation and invention. Pixar and THX to name two both had their genesis (or part of their genesis) in the creative space George Lucas created. That he was able to do it in as brutal an industry as Hollywood speaks to his genius. 
+- [Bossart - America's Forgotten Rocket Scientist](https://www.amazon.ca/Bossart-Americas-Forgotten-Rocket-Scientist/dp/0998330507) - Don P. Mitchell - A history of the man who built the Titan rocket for America. A hugely innovative design that used pressure to provide structural integrity to the rocket. Lots and lots of firsts by a Belgian immigrant who worked with all sorts of techniques across the nascent airplane industry and applied that knowledge to push the bounds of flight.
 
 
 ## Techniques of Invention
@@ -148,6 +149,8 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 - [The Soul of a New Machine](https://amzn.to/3dhwrX0) - Tracy Kidder - 
 - [The New New Thing](https://amzn.to/3xU9m4K)- Michael Lewis - 
 - [The Cuckoo's Egg](https://amzn.to/3y34Xwm)- Cliff Stoll - Just a first rate story, and a wonderful tale about persistence and pursuing weird things. Loved it. 
+- [How We Invented the Airplane: An Illustrated History](https://www.amazon.ca/How-We-Invented-Airplane-Illustrated/dp/0486256626)-Orville Wright- Worth it for the pictures alone. But a first person account of how they created the miracle of powered flight. 
+- [How Do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf) - Melvin E Conway - The communication structure of your organisation is mimicked in the products it creates. A lovely little paper. 
 
 **Interviews**
 - [Jim Keller: Moore's Law - Lex Friedman's Podcast](https://www.youtube.com/watch?v=Nb2tebYAaOA) - Microprocessors and silicon ciruits are one of the few places where the pace of technological change has been quite steady. I'm not confident that that's a model that is generalizable to lots of other arenas, but it brings with it a whole host of challenges. Jim Keller has been at the centre of this change in microprocessor's since the 1980's so he's been able to see the field change for a long time, and has driven quite a bit of that change himself. This interview with Lex Friedman is just filled with tons of interesting information.
