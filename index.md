@@ -115,9 +115,10 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Knot Theory for 8 Year Olds](https://www.atm.org.uk/write/MediaUploads/Journals/MT264/MT26414.pdf) - Dan Ghica - 
 - [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
 - [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236) - William P. Thurston - A lovely essay on what understanding and the transmission of knowledge across mathematical generations means. How much is lost when someone dies, very interesting to read in conjunction with The Forgotten Revolution. 
+- [The Combinatorial Revolution in Knot Theory](https://math.mit.edu/~ormsby/nelson-combinatorial-revolution.pdf)- Dr Sam Nelson- A wonderful paper explaining how the application of combinatorial techniques to patterns in knot theory led to the discovery of whole new classes of knots. Really neat to get some more context about the whole thing!
 - [A pictorial introduction to differential geometry,
 leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.08492.pdf)- Dr Jonathan Gratus - I have all the time in the world for clear explanations of mathematical concepts. This is a lovely bit of exposition on differential geometry and manifolds. 
--[The Combinatorial Revolution in Knot Theory](https://math.mit.edu/~ormsby/nelson-combinatorial-revolution.pdf)- Dr Sam Nelson- A wonderful paper explaining how the application of combinatorial techniques to patterns in knot theory led to the discovery of whole new classes of knots. Really neat to get some more context about the whole thing!
+
 
 **Courses**
 - [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) -Dr. Steven Strogatz - I found this series hugely helpful when I was working through the material in my Intermediate Ordinary Differential Equations course at UVic. I haven't watched every single video, but I've been through most. The associated textbook is very good as well. 
