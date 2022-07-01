@@ -116,8 +116,12 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Some elements for a history of the dynamical systems theory](https://aip-scitation-org.ezproxy.library.uvic.ca/doi/pdf/10.1063/5.0047851) - Multiple Contributors - I always like reading overviews of fields since they provide a ton of context that I as an outsider miss. Lots of little tidbits in this one, for example I found out about the Chirikov Criterion here!
 - [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236) - William P. Thurston - A lovely essay on what understanding and the transmission of knowledge across mathematical generations means. How much is lost when someone dies, very interesting to read in conjunction with The Forgotten Revolution. 
 - [The Combinatorial Revolution in Knot Theory](https://math.mit.edu/~ormsby/nelson-combinatorial-revolution.pdf)- Dr Sam Nelson- A wonderful paper explaining how the application of combinatorial techniques to patterns in knot theory led to the discovery of whole new classes of knots. Really neat to get some more context about the whole thing!
+- [Computer experiments and visualization in mathematics and physics. A subjective short walk among some historical examples](https://arxiv.org/abs/2203.10412) -J.R. Chazottes and M. Monticelli- This was a wonderful overview of the impact on computer visualisation and mathematical developments. Some things I knew, others I didn't, like the development of elliptic curves and Burch and Swinnerton-Dyer's conjecture. While I knew about Ulam, Teller, Pasta and Fermi's investigation of non-linearities I did not realize that further investigation in the 70's of their problem using computers had led to the modern theory of solitons. 
 - [A pictorial introduction to differential geometry,
-leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.08492.pdf)- Dr Jonathan Gratus - I have all the time in the world for clear explanations of mathematical concepts. This is a lovely bit of exposition on differential geometry and manifolds. 
+leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.08492.pdf)- Dr Jonathan Gratus - I have all the time in the world for clear explanations of mathematical concepts. This is a lovely bit of exposition on differential geometry and manifolds.
+
+
+
 
 
 **Courses**
@@ -162,7 +166,9 @@ leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.
 - [Coping with the Complexity of Microprocessor Design at Intel – A CAD History](https://www.researchgate.net/publication/268005718_Coping_with_the_Complexity_of_Microprocessor_Design_at_Intel_-_A_CAD_History)- Multiple Authors - This is a quick overview of how CAD tools at Intel evolved to keep pace with the scope of Moore's Law. Interesting lessons about accepting new technologies, standardization and the powers that come with it. 
 - [Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions](https://solarsystem.nasa.gov/system/internal_resources/details/original/3338_mpl_report_1.pdf) - JPL Special Review Board - Fascinating read about how communication of knowledge and processes cascaded into the eventual loss of a very expensive space probe in the late 1990s. There were numerous opportunities to identify and correct the error, but the structure of communication in the organisation prevented it from ever occurring. 
 - [How Do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf) - Melvin E Conway - The communication structure of your organisation is mimicked in the products it creates. A lovely little paper. 
-
+- [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)- David A. Wheeler - A fascinating list focused specifically on software. Of note is that virtually all things had earlier beginnings than I suspected. 
+- [Computer Science Education:
+Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/classes/CEN4010/Articles/DewarSchonberg.pdf) - Dr. Robert Dewar and Dr. Edmond Schonberg - A nice overview of the importance of learning how to do things of sufficient complexity from the start. A good overview of the utility of formal methods in languages like Ada. 
 
 ### Finance
 The inclusion of finance might seem a little curious, but I think it's a hugely important place to read about invention and in particular the application and misapplication of mathematical models to reality. I would also note that I think a lot of very talented people have sniffed out the rot in modern Academia (from the 70's on), and Wall St. has long been willing to pay people a lot of money for their talents. It's always worthwhile to read smart people, and so you put two and two together and you end up here. 
