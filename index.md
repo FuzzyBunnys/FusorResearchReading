@@ -83,9 +83,12 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Coders at Work](https://amzn.to/3hq63gy) - Peter Seibel - A series of interviews with a group of very talented coders. Lots of the technical specifics already feel quite dated in the book, but I think there's a ton of great information about how these people go about reading and writing code. How they debug and tackle a problem is really interesting to read about. 
 - [Sunburst and Luminary](https://amzn.to/3hIyPcL) - Don Eyles - So many of the embedded programming techiques used today were first developed during the Apollo program. Here you can read about the whole process put together by a young man with some supervision and no real programming experience. Watchdog timers, priority execution, and all sorts of wonderful detail about how the LEM landed on the moon.  
 - [The Making of Prince of Persia](https://amzn.to/3yhZtPc) - Jordan Mechner - Prince of Persia was a really impressive game, made even more impressive by the fact that it's the creation of a single person. Lots of fascinating technical details about how the look and feel of the game was achieved, and tons of information about how slow and interrupted the creative process feels. Straight from his diaries while he was writing the game this book is great to read.
+
+**Papers**
 - [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)- David A. Wheeler - A fascinating list focused specifically on software. Of note is that virtually all things had earlier beginnings than I suspected. 
-- [Computer Science Education:
-Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/classes/CEN4010/Articles/DewarSchonberg.pdf) - Dr. Robert Dewar and Dr. Edmond Schonberg - A nice overview of the importance of learning how to do things of sufficient complexity from the start. A good overview of the utility of formal methods in languages like Ada.  
+- [Computer Science Education: Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/classes/CEN4010/Articles/DewarSchonberg.pdf) - Dr. Robert Dewar and Dr. Edmond Schonberg - A nice overview of the importance of learning how to do things of sufficient complexity from the start. A good overview of the utility of formal methods in languages like Ada.  
+- [Big Ball of Mud](http://www.laputan.org/mud/) - Brian Foote and Joseph Yoder - A wonderful attempt to grapple with how code often exists in the real world compared to the ideal theoretical design patterns we often are taught. 
+
 
 ### Math
 **Books**
@@ -129,6 +132,7 @@ Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/c
 - [Some Thoughts on Automation and Mathematical Research](https://www.math.ias.edu/~akshay/research/IASEssay.pdf) - Akshay Venkatesh - Maybe the first thing I've read that tries to grapple with the status of research problems and whether or not high status problems are good ones to attack. 
 - [A pictorial introduction to differential geometry, leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.08492.pdf)- Dr Jonathan Gratus - I have all the time in the world for clear explanations of mathematical concepts. This is a lovely bit of exposition on differential geometry and manifolds.
 - [Theology and its Discontents: The Origin Myth of Modern Mathematics](https://academic.oup.com/princeton-scholarship-online/book/23470/chapter-abstract/184556786?redirectedFrom=fulltext) - Colin Mclarty - A bit of inside baseball, but still an interesting read about the great Hilbert and how his supervisor helped play a role in developing the current style of modern mathematics. 
+- [Dyamical Systems (Including Chaos)](http://bactra.org/notebooks/chaos.html) - Cosma Rohilla Shalizi - A nice summary of what one person thinks about dynamical systems and a list of good resources to investigate further.  
 
 
 
@@ -150,6 +154,7 @@ Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/c
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
 - [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part series on youtube. 
+- [How To Turn a Sphere Inside Out](https://www.youtube.com/watch?v=OI-To1eUtuU) - The Geometry Center - Just an incredible bit of exposition with 3d graphics. 
 
 
 ### Engineering
