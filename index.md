@@ -8,6 +8,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 **Videos**
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) - Kirby Ferguson - A wonderful video about how the essence of creativity and innovation is recombination. I have watched this multiple times. 
 - [Looms, Weaving and Cumulative Culture](https://www.youtube.com/watch?v=yi7rYDkdSBA) - Christopher Buckley - Fascinating 3-part series about the cultural transmission of knowledge in the context of looms and weaving in southeast asia. Lots of great tidbits. 
+- [Talking Funny](https://www.youtube.com/watch?v=OKY6BGcx37k) - Seinfeld, CK, Gervais and Rock - I don't really know why comedy grabs my attention so much, but watching these people talk about their craft is the most fascinating thing to me. 
 
 **Interviews**
 - [Conversations with Tyler - Peter Thiel](https://conversationswithtyler.com/episodes/peter-thiel/) - Tyler Cowen's interview series is always worth your time, but in particular this discussion with Peter Thiel is fascinating. Thiel's thesis around technological stagnation is I think rather well known at this point, and here you get to listen to a very good summary of it. The first step in solving a problem is understanding that you have one. 
@@ -50,11 +51,13 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Wizards of Langley](https://www.amazon.ca/Wizards-Langley-Directorate-Science-Technology-ebook/dp/B009W74BN4) - Jeffrey T. Richelson - So much invention happens behind closed doors. This book discusses a bunch of very real breakthroughs that took place in the cold war. There is a lot of deeply boring exposition about interagency disputes but the technology they were inventing will take your breath away. 
 - [Nazca - The Flight of Condor 1](https://www.goodreads.com/book/show/34995386-nazca) - Jim Woodman - Just a fantastic book. Perhaps the lines in the Peruvian desert drawn by the Nazca were put to be seen from the air? Maybe ballooning is thousands of years old and has constantly been rediscovered. First by Brazilian [Bartolomeu de Gusmao](https://en.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o), then by the [Montgolfier brothers](https://en.wikipedia.org/wiki/Montgolfier_brothers). Jim Goodman and a group put together a balloon based on technology that was thousands of years old and flew it in the 1970s. Absolutely a first rate story. 
 - [Founders at Work](https://www.amazon.ca/Founders-Work-Stories-Startups-Early/dp/1430210788) - Jessica Livingston - A series of interviews with a lot of successful startup founders. Lots of highly interesting tidbits, I especially liked those with Max Levchin and Mike Lazardis. All were worth reading. 
+- [Tuxedo Park](https://www.amazon.ca/Tuxedo-Park-Street-Science-Changed/dp/0684872889) - Jennet Connant - Fascinating story about the development of radar in the second world war. The Tizzard mission, laboratories, lust, it's all in here!
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - 
 - [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - Logic is a really clumsy tool. When the domain it works in is well defined its very useful, but that's almost never the case. As far as I can tell most of mathematics is about defining the domain so that the tools of logic and calculation can be applied to it. If you're trying to do a new thing in a new domain that is not well defined how much can you trust the "conclusions" that have been made? I don't think very much, I think something very similar to what the child in this article does is what happens with most new research. You have to make those erroneous conclusions though to be able to make the correct ones later on.
 - [The Collapse of Rational Certainty](https://meaningness.com/collapse-of-rational-certainty) - David Chapman - David Chapman's blog is consistently interesting, this is a great quick overview of the scientific developments in math and physics that caused a crisis of rationality. Very nice to have this put together in a coherent way. 
+- [Why Was Western Printing Superior to Asian Printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior) - Erik Engheim - Lots of details that seem trivial from a distance are in fact not at all trivial. To create a gestalt you have to micromanage.  
 
 
 ### Biography - Auto and Otherwise
@@ -88,6 +91,10 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)- David A. Wheeler - A fascinating list focused specifically on software. Of note is that virtually all things had earlier beginnings than I suspected. 
 - [Computer Science Education: Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/classes/CEN4010/Articles/DewarSchonberg.pdf) - Dr. Robert Dewar and Dr. Edmond Schonberg - A nice overview of the importance of learning how to do things of sufficient complexity from the start. A good overview of the utility of formal methods in languages like Ada.  
 - [Big Ball of Mud](http://www.laputan.org/mud/) - Brian Foote and Joseph Yoder - A wonderful attempt to grapple with how code often exists in the real world compared to the ideal theoretical design patterns we often are taught. 
+- [Separation Logic](http://www0.cs.ucl.ac.uk/staff/p.ohearn/SeparationLogic/Separation_Logic/SL_Home.html) - Peter O'Hearn - To be honest I only skimmed this one. I think it's a logical method of dealing with some thorny problems when program verification is a goal. Seems to have an ability to deal with pointers and some other intertwined structures. Just didn't have the heart to dig into the details and eat the math. 
+
+**Websites**
+-[Why I no longer recommend Julia](https://yuri.is/not-julia/) - ruh-roh. 
 
 
 ### Math
@@ -133,6 +140,9 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [A pictorial introduction to differential geometry, leading to Maxwell’s equations as three pictures.](https://arxiv.org/pdf/1709.08492.pdf)- Dr Jonathan Gratus - I have all the time in the world for clear explanations of mathematical concepts. This is a lovely bit of exposition on differential geometry and manifolds.
 - [Theology and its Discontents: The Origin Myth of Modern Mathematics](https://academic.oup.com/princeton-scholarship-online/book/23470/chapter-abstract/184556786?redirectedFrom=fulltext) - Colin Mclarty - A bit of inside baseball, but still an interesting read about the great Hilbert and how his supervisor helped play a role in developing the current style of modern mathematics. 
 - [Dyamical Systems (Including Chaos)](http://bactra.org/notebooks/chaos.html) - Cosma Rohilla Shalizi - A nice summary of what one person thinks about dynamical systems and a list of good resources to investigate further.  
+- [The Helmholtz-Hodge Decomposition -- A Survey](https://ieeexplore.ieee.org/document/6365629) - Bhatia et al. - Overview of a very neat technique, a good starting point. I only skimmed the math section but the applications really points you to some good stuff. 
+- [Safari au Pays des Fonctions Specialies](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - A wonderful overview of all the weird functions that exist outside of the standard calculus sequence in universities. 
+- [The Decompositional Approach to Matrix Computation](https://ieeexplore.ieee.org/document/814658) - G.W. Stewart - This gives an overview of the big six matrix factorizations in use in numerical linear algebra, and hints at how math was changed by the application and utility of the computer to matrix decomposition. 
 
 
 
@@ -150,6 +160,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
+- [Reverse engineering Poincaré: What's next?](https://siliconreckoner.substack.com/p/reverse-engineering-poincare-whats?s=r) - Michael Harris - A neat little essay about automated reasoning and human intuition. 
 
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
@@ -180,6 +191,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Coping with the Complexity of Microprocessor Design at Intel – A CAD History](https://www.researchgate.net/publication/268005718_Coping_with_the_Complexity_of_Microprocessor_Design_at_Intel_-_A_CAD_History)- Multiple Authors - This is a quick overview of how CAD tools at Intel evolved to keep pace with the scope of Moore's Law. Interesting lessons about accepting new technologies, standardization and the powers that come with it. 
 - [Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions](https://solarsystem.nasa.gov/system/internal_resources/details/original/3338_mpl_report_1.pdf) - JPL Special Review Board - Fascinating read about how communication of knowledge and processes cascaded into the eventual loss of a very expensive space probe in the late 1990s. There were numerous opportunities to identify and correct the error, but the structure of communication in the organisation prevented it from ever occurring. 
 - [How Do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf) - Melvin E Conway - The communication structure of your organisation is mimicked in the products it creates. A lovely little paper. 
+- [The Vacuum Tube's Power Law](https://vaclavsmil.com/wp-content/uploads/2019/03/February2019.pdf) - Vaclav Smil - Fascinating analogy. Maybe Moore's Law is more universal than we think, and it's uniqueness in the modern era is evidence of our stagnation?
 
 
 ### Finance
@@ -225,6 +237,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Inertial Electrostatic Confinement of Ionized Fusion Gases]() - Robert L. Hirsch - 
 - [Simulating Physics With Computers](http://physics.whu.edu.cn/dfiles/wenjian/1_00_QIC_Feynman.pdf) - Richard P Feynman - 
 - [How Academia and Publishing are Destroying Scientific Innovation: A Conversation with Sydney Brenner](https://web.archive.org/web/20190303164113/http://kingsreview.co.uk/articles/how-academia-and-publishing-are-destroying-scientific-innovation-a-conversation-with-sydney-brenner/) - Elizabeth Dzeng - This isn't really physics, but it's academic so I'll stick it here. This is a fantastic overview of how scientific publishing curtails and constrains innovation. Critically Dr. Sydney Brenner has seen the standards change over the course of a long career and its not to his liking. 
+- [The Klystron: A Microwave Source of Surprising Range and Endurance](https://aip.scitation.org/doi/10.1063/1.872826) - George Caryotakis - An overview of these strange little devices that provide so much power. 
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Dr. Scott Locklin - I can't remember when I stumbled on this blog, but I read it every time something new goes up. Lots of different things, always a unique viewpoint and points are made in the best, most brutal fashion. I've been introduced to a lot of new ideas via the blog, one of my favourite posts is the [following](https://scottlocklin.wordpress.com/2013/03/07/the-enigma-of-the-ford-paradox/) on chaos and the Ford paradox. 
