@@ -96,7 +96,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Separation Logic](http://www0.cs.ucl.ac.uk/staff/p.ohearn/SeparationLogic/Separation_Logic/SL_Home.html) - Peter O'Hearn - To be honest I only skimmed this one. I think it's a logical method of dealing with some thorny problems when program verification is a goal. Seems to have an ability to deal with pointers and some other intertwined structures. Just didn't have the heart to dig into the details and eat the math. 
 
 **Websites**
--[Why I no longer recommend Julia](https://yuri.is/not-julia/) - ruh-roh. 
+-  [Why I no longer recommend Julia](https://yuri.is/not-julia/) - ruh-roh. 
 
 
 ### Math
