@@ -145,6 +145,8 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Helmholtz-Hodge Decomposition -- A Survey](https://ieeexplore.ieee.org/document/6365629) - Bhatia et al. - Overview of a very neat technique, a good starting point. I only skimmed the math section but the applications really points you to some good stuff. 
 - [Safari au Pays des Fonctions Specialies](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - A wonderful overview of all the weird functions that exist outside of the standard calculus sequence in universities. 
 - [The Decompositional Approach to Matrix Computation](https://ieeexplore.ieee.org/document/814658) - G.W. Stewart - This gives an overview of the big six matrix factorizations in use in numerical linear algebra, and hints at how math was changed by the application and utility of the computer to matrix decomposition. 
+- [Math Augmentation: How Authors Enhance the Readability of
+Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. 
 
 
 
@@ -194,6 +196,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions](https://solarsystem.nasa.gov/system/internal_resources/details/original/3338_mpl_report_1.pdf) - JPL Special Review Board - Fascinating read about how communication of knowledge and processes cascaded into the eventual loss of a very expensive space probe in the late 1990s. There were numerous opportunities to identify and correct the error, but the structure of communication in the organisation prevented it from ever occurring. 
 - [How Do Committees Invent?](https://www.melconway.com/Home/pdf/committees.pdf) - Melvin E Conway - The communication structure of your organisation is mimicked in the products it creates. A lovely little paper. 
 - [The Vacuum Tube's Power Law](https://vaclavsmil.com/wp-content/uploads/2019/03/February2019.pdf) - Vaclav Smil - Fascinating analogy. Maybe Moore's Law is more universal than we think, and it's uniqueness in the modern era is evidence of our stagnation?
+- [The Best Optimizer is Between Your Ears](http://downloads.gamedev.net/pdf/gpbb/gpbb1.pdf) - Michael Abrash - Great chapter and introduction to HOW to optimizer code. From Michael Abrash's Graphics Programming Black Book. 
 
 
 ### Finance
