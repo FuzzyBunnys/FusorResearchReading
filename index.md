@@ -146,7 +146,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Safari au Pays des Fonctions Specialies](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - A wonderful overview of all the weird functions that exist outside of the standard calculus sequence in universities. 
 - [The Decompositional Approach to Matrix Computation](https://ieeexplore.ieee.org/document/814658) - G.W. Stewart - This gives an overview of the big six matrix factorizations in use in numerical linear algebra, and hints at how math was changed by the application and utility of the computer to matrix decomposition. 
 - [Math Augmentation: How Authors Enhance the Readability of
-Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. 
+Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. Has an attached [video](https://www.youtube.com/watch?v=KH8z1IbXelk) that is good as well. 
 
 
 
