@@ -53,6 +53,8 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Nazca - The Flight of Condor 1](https://www.goodreads.com/book/show/34995386-nazca) - Jim Woodman - Just a fantastic book. Perhaps the lines in the Peruvian desert drawn by the Nazca were put to be seen from the air? Maybe ballooning is thousands of years old and has constantly been rediscovered. First by Brazilian [Bartolomeu de Gusmao](https://en.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o), then by the [Montgolfier brothers](https://en.wikipedia.org/wiki/Montgolfier_brothers). Jim Goodman and a group put together a balloon based on technology that was thousands of years old and flew it in the 1970s. Absolutely a first rate story. 
 - [Founders at Work](https://www.amazon.ca/Founders-Work-Stories-Startups-Early/dp/1430210788) - Jessica Livingston - A series of interviews with a lot of successful startup founders. Lots of highly interesting tidbits, I especially liked those with Max Levchin and Mike Lazardis. All were worth reading. 
 - [Tuxedo Park](https://www.amazon.ca/Tuxedo-Park-Street-Science-Changed/dp/0684872889) - Jennet Connant - Fascinating story about the development of radar in the second world war. The Tizzard mission, laboratories, lust, it's all in here!
+- [The Captive Mind](https://www.amazon.ca/Captive-Mind-Czeslaw-Milosz/dp/0679728562) - Czeslaw Milosz - Absolutely fascinating read about the poison that is deception. 
+- [The End of Science](https://www.amazon.ca/End-Science-John-Horgan/dp/0553061747) - John Horgan - Great book, I think he correctly diagnoses the problem but not the cause. All I could think while he was talking to all these scientists was that none of them really had a clue, they all seemed very lost and unwilling to admit it. 
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - 
@@ -145,8 +147,14 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Helmholtz-Hodge Decomposition -- A Survey](https://ieeexplore.ieee.org/document/6365629) - Bhatia et al. - Overview of a very neat technique, a good starting point. I only skimmed the math section but the applications really points you to some good stuff. 
 - [Safari au Pays des Fonctions Specialies](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - A wonderful overview of all the weird functions that exist outside of the standard calculus sequence in universities. 
 - [The Decompositional Approach to Matrix Computation](https://ieeexplore.ieee.org/document/814658) - G.W. Stewart - This gives an overview of the big six matrix factorizations in use in numerical linear algebra, and hints at how math was changed by the application and utility of the computer to matrix decomposition. 
+- [An Editor Recalls Some Hopeless Papers](http://www.logic.univie.ac.at/~ykhomski/ST2013/Hodges.pdf) - Wilfrid Hodges - Lots of mistakes made by people are very similar, here people often try to disprove things they don't understand, how do they mess up?
+- [Talking About Large Language Models](https://arxiv.org/abs/2212.03551)- Murray Shanahan - I found this deeply compelling when I read it in December 2022, I do not find it so compelling a few months later after the release of Bing chat. 
+- [Computer-Made Perspective Movies as a Scientific and Communication Tool](https://dl.acm.org/doi/10.1145/363958.363993)- E E Zajac - One of the OG computer graphics papers out of Bell Labs. So short and easy to read, the math is very easy too. Want to know how to render an object from a vantage point? Here's the simple formula! 
+- [How Technology Has Changed What It Means to Think Mathematically](https://link.springer.com/chapter/10.1007/978-3-030-22537-7_3) - Keith Devlin - Great overview of how the development of tools of and for thought changed what was possible for humans.
+- [Safari au Pays des Fonctions Speciales](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - Great overview of special functions that aren't really covered in a general engineering math education. Lots of things I hadn't know existed and some I had, the author has kindly provided an english translation as well. 
 - [Math Augmentation: How Authors Enhance the Readability of
 Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. Has an attached [video](https://www.youtube.com/watch?v=KH8z1IbXelk) that is good as well. 
+
 
 
 
@@ -165,6 +173,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 **Websites**
 - [Lee Lady's Mathematical Website](http://www.math.hawaii.edu/~lee/) - Dr. Lee Lady - A great website that provides a ton of context about learning math. In particular his descriptions of how he proved some of his theorems early on, and general commentary about how to teach and learn math is invaluable. His essay on "How to do Mathematical Research" is worth reading repeatedly.
 - [Reverse engineering Poincaré: What's next?](https://siliconreckoner.substack.com/p/reverse-engineering-poincare-whats?s=r) - Michael Harris - A neat little essay about automated reasoning and human intuition. 
+- [Interactive Tutorial of the Sequent Calculus](http://logitext.mit.edu/tutorial) - Fantastic little tutorial of a logical system that's like Hoare logic and is very useful for thinking about your code. 
 
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
@@ -186,6 +195,9 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [The New New Thing](https://amzn.to/3xU9m4K)- Michael Lewis - Lovely story about the founding of Netscape, Silicon Valley and Jim Gray.
 - [The Cuckoo's Egg](https://amzn.to/3y34Xwm)- Cliff Stoll - Just a first rate story, and a wonderful tale about persistence and pursuing weird things. Loved it. 
 - [How We Invented the Airplane: An Illustrated History](https://www.amazon.ca/How-We-Invented-Airplane-Illustrated/dp/0486256626)-Orville Wright- Worth it for the pictures alone. But a first person account of how they created the miracle of powered flight. 
+- [The Collins Class Submarine Story](https://www.amazon.ca/Collins-Class-Submarine-Story-Steel/dp/0521868947) - Peter Yule and Derek Woolner - Australia built some enormous diesel submarines in the 90s having never done so before. How did these Swedish Fish adapt to their new southern home and what problems came about while building these monstrously complicated machines? Great read!
+- [Every Engineer Should Know This](https://www.amazon.ca/Every-Engineer-Should-Know-This/dp/1522023917) - Dr. R. Andrew Motes - Fun quick read with some lovely anecdotes about teaching rocket design. 
+ 
 
 
 **Interviews**
@@ -212,7 +224,8 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [The Black Swan](https://amzn.to/3w7NDW0) - Nicholas Nassim Taleb - His second best book.
 - [Antifragile](https://amzn.to/33K8pyW) - Nicholas Nassim Taleb - His third best book. 
 - [The Poker Face of Wall St.](https://amzn.to/2RFVJXj) - Aaron Brown - I really liked this book, lots of ways of looking at risk in investing through the frame of successful gamblers. A very neat historical fact was teased regarding the Yukon gold rush, poker there was some sort of local pool of winnings that allowed a member of the poker players group to make enough to actually leave. You couldn't play at the table unless you'd put your time in looking for gold. Super neat local credit structure. 
-- [A Man for All Markets](https://amzn.to/3fDTUSU) - Dr. Edward Thorpe - 
+- [A Man for All Markets](https://amzn.to/3fDTUSU) - Dr. Edward Thorpe - A wonderful tale about a very smart man's successful career
+- [Lying for Money](https://www.amazon.ca/Lying-Money-Legendary-Frauds-Working-ebook/dp/B07P5H6PM2) - Dan Davies - Long firms, control frauds, cooking oil, deception, deceit, Barclays, it's all here. Fun and easy to read. 
 
 ### Physics
 **Videos**
@@ -225,7 +238,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
  
 
 **Books**
-- [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - 
+- [Life at the Center of the Energy Crisis](https://amzn.to/3hsr5es) - Dr. George H. Miley - A great read about a man in search of something different, very nice catalog of all the different things he tried. 
 - [Inertial Electrostatic Confinement Fusion](https://amzn.to/3tWZZPz) - Dr. George H. Miley and Dr. S. Krupakar Murali - 
 - [Einstein's Clocks, Poincare's Maps](https://amzn.to/3fpc0HU) - Peter Galison - I found this book difficult to read, but it is filled with the most wonderful information. Why did Einstein use a train for his gedankenexperiment? Maybe it was because he was a patent clerk reviewing patent applications for clocks to synchronize train schedules across Switzerland. Deeply important to read to understand how theory is subordinate to the real engineering problems of the physical world. 
 - [Models of the Atomic Nucleus](https://amzn.to/2Rhmlhp) - Norman D Cook - 
@@ -243,6 +256,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Simulating Physics With Computers](http://physics.whu.edu.cn/dfiles/wenjian/1_00_QIC_Feynman.pdf) - Richard P Feynman - 
 - [How Academia and Publishing are Destroying Scientific Innovation: A Conversation with Sydney Brenner](https://web.archive.org/web/20190303164113/http://kingsreview.co.uk/articles/how-academia-and-publishing-are-destroying-scientific-innovation-a-conversation-with-sydney-brenner/) - Elizabeth Dzeng - This isn't really physics, but it's academic so I'll stick it here. This is a fantastic overview of how scientific publishing curtails and constrains innovation. Critically Dr. Sydney Brenner has seen the standards change over the course of a long career and its not to his liking. 
 - [The Klystron: A Microwave Source of Surprising Range and Endurance](https://aip.scitation.org/doi/10.1063/1.872826) - George Caryotakis - An overview of these strange little devices that provide so much power. 
+- [Something is wrong in the state of QED](https://arxiv.org/abs/2110.02078) - Oliver Consa - Good historical overview and some trenchant criticisms
 
 **Websites**
 - [Scott Locklin's Blog](https://scottlocklin.wordpress.com/) - Dr. Scott Locklin - I can't remember when I stumbled on this blog, but I read it every time something new goes up. Lots of different things, always a unique viewpoint and points are made in the best, most brutal fashion. I've been introduced to a lot of new ideas via the blog, one of my favourite posts is the [following](https://scottlocklin.wordpress.com/2013/03/07/the-enigma-of-the-ford-paradox/) on chaos and the Ford paradox. 
