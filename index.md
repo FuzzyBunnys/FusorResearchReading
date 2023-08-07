@@ -189,7 +189,8 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
  **Videos**
 - [Dynamics, numerical analysis and some geometry](https://www.youtube.com/watch?v=bccC-8KHv2U) - Christian Lubich - Nice quick overview of the importance of picking the right algorithm for analysing complicated dynamics problems. Lots of intriguing tidbits, like the link with symplicity and how the underlying geometry should inform the type of algorithm one chooses. 
 - [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part series on youtube. 
-- [How To Turn a Sphere Inside Out](https://www.youtube.com/watch?v=OI-To1eUtuU) - The Geometry Center - Just an incredible bit of exposition with 3d graphics. 
+- [How To Turn a Sphere Inside Out](https://www.youtube.com/watch?v=OI-To1eUtuU) - The Geometry Center - Just an incredible bit of exposition with 3d graphics.
+- [Not Knot - A guide to mathematical knots in hyperbolic space](https://www.youtube.com/watch?v=IrlaVaATiOY) - The Geometry Center - More great stuff
 
 
 ### Engineering
@@ -221,6 +222,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [The Vacuum Tube's Power Law](https://vaclavsmil.com/wp-content/uploads/2019/03/February2019.pdf) - Vaclav Smil - Fascinating analogy. Maybe Moore's Law is more universal than we think, and it's uniqueness in the modern era is evidence of our stagnation?
 - [The Best Optimizer is Between Your Ears](http://downloads.gamedev.net/pdf/gpbb/gpbb1.pdf) - Michael Abrash - Great chapter and introduction to HOW to optimizer code. From Michael Abrash's Graphics Programming Black Book.
 - [JPL Institutional Coding Standard for the C Programming Language](https://yurichev.com/mirrors/C/JPL_Coding_Standard_C.pdf) - Multiple Authors - Fantastic set of rules for avoiding serious issues in safety critical software
+- [Vacuum electronics at the dawn of the twenty-first century](https://ieeexplore.ieee.org/document/757251) - V.L. Granatstein, R.K. Parker and C.M. Armstrong - An overview of the current state of vacuum electronics. 
 
 
 ### Finance
