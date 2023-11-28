@@ -160,7 +160,10 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [How Technology Has Changed What It Means to Think Mathematically](https://link.springer.com/chapter/10.1007/978-3-030-22537-7_3) - Keith Devlin - Great overview of how the development of tools of and for thought changed what was possible for humans.
 - [Safari au Pays des Fonctions Speciales](https://www.scribd.com/document/14623310/Safari-on-the-country-of-the-Special-Functions-Safari-au-pays-des-fonctions-speciales) - Jean Jacquelin - Great overview of special functions that aren't really covered in a general engineering math education. Lots of things I hadn't know existed and some I had, the author has kindly provided an english translation as well.
 - [Social Processes and Proofs of Theorems and Programs](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/social.pdf) - Richard De Millo, Richard Lipton and Alan Perlis - Nominally about formal verification of programs, but really about how math is done.
-- [On Unsettleable Arithmetical Problems](https://www.jstor.org/stable/10.4169/amer.math.monthly.120.03.192) - John Conway - When can we prove a thing and when can we not? Implications for Collatz. 
+- [On Unsettleable Arithmetical Problems](https://www.jstor.org/stable/10.4169/amer.math.monthly.120.03.192) - John Conway - When can we prove a thing and when can we not? Implications for Collatz.
+- [Automatic Generation of Strange Attractors](https://sprott.physics.wisc.edu/pubs/PAPER203.HTM) - J C Sprott - Great little paper about automating the search for interesting equations.
+- [Visualizing Knot Complements](https://stevejtrettel.site/paper/drawing-knots/) - Steve Trettel - A nice paper about the math behind rendering some strange knotless shapes.
+- [Computation and State Machines](https://lamport.azurewebsites.net/pubs/state-machine.pdf) - Leslie Lamport - How to formalize a state machine with mathematics.
 - [Math Augmentation: How Authors Enhance the Readability of
 Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. Has an attached [video](https://www.youtube.com/watch?v=KH8z1IbXelk) that is good as well.
 
