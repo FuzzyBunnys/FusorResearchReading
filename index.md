@@ -225,7 +225,8 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [The Best Optimizer is Between Your Ears](http://downloads.gamedev.net/pdf/gpbb/gpbb1.pdf) - Michael Abrash - Great chapter and introduction to HOW to optimizer code. From Michael Abrash's Graphics Programming Black Book.
 - [JPL Institutional Coding Standard for the C Programming Language](https://yurichev.com/mirrors/C/JPL_Coding_Standard_C.pdf) - Multiple Authors - Fantastic set of rules for avoiding serious issues in safety critical software
 - [Vacuum electronics at the dawn of the twenty-first century](https://ieeexplore.ieee.org/document/757251) - V.L. Granatstein, R.K. Parker and C.M. Armstrong - An overview of the current state of vacuum electronics.
-- [The Trinity High-Explosive Implosion System: The Foundation for Precision Explosive Applications](https://arxiv.org/abs/2103.05714) - E. N. Brown, D. L. Borovina - Neat read about some of the engineering behind the explosive lenses at the core of the plutonium bomb. 
+- [The Trinity High-Explosive Implosion System: The Foundation for Precision Explosive Applications](https://arxiv.org/abs/2103.05714) - E. N. Brown, D. L. Borovina - Neat read about some of the engineering behind the explosive lenses at the core of the plutonium bomb.
+- [Computer Aided Design: Limitations in Automating Design and Drafting](https://ieeexplore.ieee.org/document/40978) - Harold Salzman - Scott Locklin referenced this paper, very interesting reading about the limitations of CAD design in the context of PCB manufacture. People have been trying to replace skilled labour for a long time. 
 
 
 ### Finance
