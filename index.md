@@ -226,7 +226,9 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [JPL Institutional Coding Standard for the C Programming Language](https://yurichev.com/mirrors/C/JPL_Coding_Standard_C.pdf) - Multiple Authors - Fantastic set of rules for avoiding serious issues in safety critical software
 - [Vacuum electronics at the dawn of the twenty-first century](https://ieeexplore.ieee.org/document/757251) - V.L. Granatstein, R.K. Parker and C.M. Armstrong - An overview of the current state of vacuum electronics.
 - [The Trinity High-Explosive Implosion System: The Foundation for Precision Explosive Applications](https://arxiv.org/abs/2103.05714) - E. N. Brown, D. L. Borovina - Neat read about some of the engineering behind the explosive lenses at the core of the plutonium bomb.
-- [Computer Aided Design: Limitations in Automating Design and Drafting](https://ieeexplore.ieee.org/document/40978) - Harold Salzman - Scott Locklin referenced this paper, very interesting reading about the limitations of CAD design in the context of PCB manufacture. People have been trying to replace skilled labour for a long time. 
+- [Computer Aided Design: Limitations in Automating Design and Drafting](https://ieeexplore.ieee.org/document/40978) - Harold Salzman - Scott Locklin referenced this paper, very interesting reading about the limitations of CAD design in the context of PCB manufacture. People have been trying to replace skilled labour for a long time.
+- [The Gears of Genius](https://sscs.ieee.org/images/files/newsletter_archive/sscs_newsletter_200710.pdf) - Barrie Gilbert - This is an autobiographical article by one of the greats of IC design, Barrie Gilbert. 
+- [Tales of the Continuum: A Subsampled History of Analog Circuits](https://ieeexplore.ieee.org/document/4785653) - Thomas H. Lee - A very nice overview of how modern analog circuits came to be. Starts with the Antikythera Mechanism and ends with Op-Amps!
 
 
 ### Finance
