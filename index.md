@@ -163,8 +163,10 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Automatic Generation of Strange Attractors](https://sprott.physics.wisc.edu/pubs/PAPER203.HTM) - J C Sprott - Great little paper about automating the search for interesting equations.
 - [Visualizing Knot Complements](https://stevejtrettel.site/paper/drawing-knots/) - Steve Trettel - A nice paper about the math behind rendering some strange knotless shapes.
 - [Computation and State Machines](https://lamport.azurewebsites.net/pubs/state-machine.pdf) - Leslie Lamport - How to formalize a state machine with mathematics.
+- [Breakthrough in Conformal Mapping](https://www.math.wichita.edu/~delillo/mapping.pdf) - James Case - Summary of an old breakthrough that let people solve some thorny conformal mapping cases.
 - [Math Augmentation: How Authors Enhance the Readability of
 Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. Has an attached [video](https://www.youtube.com/watch?v=KH8z1IbXelk) that is good as well.
+
 
 
 
