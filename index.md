@@ -287,5 +287,6 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 - [Fusor.net](https://fusor.net/) - I've mentioned this elsewhere but in particular I'd like to highlight some of the [threads](https://fusor.net/board/viewforum.php?f=70&sid=5f110db5244fcd230c14c2ea0e675014) on the history of the fusor. These are first hand interviews Richard Hull undertook with many of the original fusor team at ITT. There's just no other way to hear about this stuff since many of them have since passed on. Absolutely worth reading. 
 - [The Herbert Dingle Affair](https://planetofstorms.wordpress.com/2021/02/13/the-herbert-dingle-affair/) - How do you know what is true? Surely science filters the wheat from the chaff and lets you triangulate what is correct?
   
-###Fiction
+### Fiction
+**Books**
 -[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson - A fun read, finally got around to it, neat to see its influence everywhere in the culture. 
