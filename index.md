@@ -289,4 +289,5 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
   
 ### Fiction
 **Books**
+
 -[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson - A fun read, finally got around to it, neat to see its influence everywhere in the culture. 
