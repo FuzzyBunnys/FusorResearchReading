@@ -233,6 +233,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [Computer Aided Design: Limitations in Automating Design and Drafting](https://ieeexplore.ieee.org/document/40978) - Harold Salzman - Scott Locklin referenced this paper, very interesting reading about the limitations of CAD design in the context of PCB manufacture. People have been trying to replace skilled labour for a long time.
 - [The Gears of Genius](https://sscs.ieee.org/images/files/newsletter_archive/sscs_newsletter_200710.pdf) - Barrie Gilbert - This is an autobiographical article by one of the greats of IC design, Barrie Gilbert. 
 - [Tales of the Continuum: A Subsampled History of Analog Circuits](https://ieeexplore.ieee.org/document/4785653) - Thomas H. Lee - A very nice overview of how modern analog circuits came to be. Starts with the Antikythera Mechanism and ends with Op-Amps!
+- [Why Programming is a Good Medium for Expressing Poorly Understood and Sloppily Formulated Ideas](https://rafal.io/static/papers/why_programming_is_minsky.pdf) - Marvin Minsky - Writing things down forces you to be precise. Programming a computer is different from writing in that it lets you explore consequences of your ideas. 
 
 
 ### Finance
