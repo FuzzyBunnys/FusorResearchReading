@@ -199,6 +199,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [Abel and Jacobi’s approach to Elliptic Integrals](https://www.youtube.com/watch?v=4APuVh6jtyA) - Math Curator Zanachan - Lovely overview of elliptic integrals, a short three part series on youtube. 
 - [How To Turn a Sphere Inside Out](https://www.youtube.com/watch?v=OI-To1eUtuU) - The Geometry Center - Just an incredible bit of exposition with 3d graphics.
 - [Not Knot - A guide to mathematical knots in hyperbolic space](https://www.youtube.com/watch?v=IrlaVaATiOY) - The Geometry Center - More great stuff
+- [Visiting the Thurston Geometries: Computer Graphics in Curved Space](https://www.youtube.com/watch?v=Py4aFsJzChI) - Steve Trettel - Lovely internal views of 3-manifolds!
 
 
 ### Engineering
