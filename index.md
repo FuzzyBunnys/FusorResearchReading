@@ -16,7 +16,10 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Tim Ferriss Show - Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/) - I think a lot of creative work has some fundamental similarities. Making a new scientific theory, creating a work of art, writing a novel, or making new jokes, these are all making a new thing. Jerry Seinfeld in particular has had a very long creative career, and he's handled the transition from network TV to the internet very well. I think his Comedians in Cars getting Coffee series is the most youtubey professional show I've ever watched. So in that vein, why not listen to the guy to figure out how he's stayed so creatively productive for so long?
 - [Jim Clark - Oral History](https://www.computerhistory.org/collections/catalog/102795133) - Besides being a wonderful character in Stephen Lewis' The New New Thing, he's had his hand in a lot of technology that directly impacted me. He helped bring computer special effects to the fore with his company Silicon Graphics seen most vividly in the greatest movie of the 90's Jurassic Park, he created the chip that powered the Nintendo 64 that I played for hours with my friends growing up, and he ushered in the internet revolution by founding Netscape with Marc Andreessen. Just a fascinating tale all around. 
 - [Margaret Hamilton - Oral History](https://www.computerhistory.org/collections/catalog/102738243) - One of the greats, so much fascinating work was done. Her role in the initial discovery of chaos theory (she did a bunch of programming for Edward Lorenz), her work on Apollo, error detection, so many things! Just foundational stuff.
-- [Forging the mRNA Revolution — Katalin Karikó](https://josephnoelwalker.com/147-katalin-kariko/) - "The only thing in the periphery is freedom". 
+- [Forging the mRNA Revolution — Katalin Karikó](https://josephnoelwalker.com/147-katalin-kariko/) - "The only thing in the periphery is freedom".
+
+**Articles**
+-[Superstars or Black Holes: Are Tech Clusters Causing Stagnation?](https://americanaffairsjournal.org/2024/02/superstars-or-black-holes-are-tech-clusters-causing-stagnation/) - Brian J Asquith - Are tech clusters a good thing? Or are they a malaise representative of our current inability to progress. 
 
 ### History + Sociology
 **Books**
@@ -64,7 +67,8 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Crazy Conclusions in Early Childhood](https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html) - Doreen Taylor - Logic is a really clumsy tool. When the domain it works in is well defined its very useful, but that's almost never the case. As far as I can tell most of mathematics is about defining the domain so that the tools of logic and calculation can be applied to it. If you're trying to do a new thing in a new domain that is not well defined how much can you trust the "conclusions" that have been made? I don't think very much, I think something very similar to what the child in this article does is what happens with most new research. You have to make those erroneous conclusions though to be able to make the correct ones later on.
 - [The Collapse of Rational Certainty](https://meaningness.com/collapse-of-rational-certainty) - David Chapman - David Chapman's blog is consistently interesting, this is a great quick overview of the scientific developments in math and physics that caused a crisis of rationality. Very nice to have this put together in a coherent way. 
 - [Why Was Western Printing Superior to Asian Printing?](https://erikexamines.substack.com/p/why-was-western-printing-superior) - Erik Engheim - Lots of details that seem trivial from a distance are in fact not at all trivial. To create a gestalt you have to micromanage.  
-- [Forgetting the Asbestos](https://1517.substack.com/p/forgetting-the-asbestos)- Areoform - Details that matter so much are quickly forgotten. Replication is difficult. To invent you can merely try to copy the past. 
+- [Forgetting the Asbestos](https://1517.substack.com/p/forgetting-the-asbestos)- Areoform - Details that matter so much are quickly forgotten. Replication is difficult. To invent you can merely try to copy the past.
+- [The Space Shuttle Misdirection](https://www.strategictranslation.org/articles/the-space-shuttle-misdirection) - Wang Huning - A translation of Wang Huning's observations, who saw America around it's triumphant Cold War peak. He sees technology in America as a way of avoiding hard political and social questions. The whole series is worth reading.   
 
 
 ### Biography - Auto and Otherwise
@@ -101,7 +105,9 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)- David A. Wheeler - A fascinating list focused specifically on software. Of note is that virtually all things had earlier beginnings than I suspected. 
 - [Computer Science Education: Where Are the Software Engineers of Tomorrow?](http://www.cs.fsu.edu/~gaitrosd/classes/CEN4010/Articles/DewarSchonberg.pdf) - Dr. Robert Dewar and Dr. Edmond Schonberg - A nice overview of the importance of learning how to do things of sufficient complexity from the start. A good overview of the utility of formal methods in languages like Ada.  
 - [Big Ball of Mud](http://www.laputan.org/mud/) - Brian Foote and Joseph Yoder - A wonderful attempt to grapple with how code often exists in the real world compared to the ideal theoretical design patterns we often are taught. 
-- [Separation Logic](http://www0.cs.ucl.ac.uk/staff/p.ohearn/SeparationLogic/Separation_Logic/SL_Home.html) - Peter O'Hearn - To be honest I only skimmed this one. I think it's a logical method of dealing with some thorny problems when program verification is a goal. Seems to have an ability to deal with pointers and some other intertwined structures. Just didn't have the heart to dig into the details and eat the math. 
+- [Separation Logic](http://www0.cs.ucl.ac.uk/staff/p.ohearn/SeparationLogic/Separation_Logic/SL_Home.html) - Peter O'Hearn - To be honest I only skimmed this one. I think it's a logical method of dealing with some thorny problems when program verification is a goal. Seems to have an ability to deal with pointers and some other intertwined structures. Just didn't have the heart to dig into the details and eat the math.
+- [A PERSONAL HISTORY OF APL](https://ed-thelen.org/comp-hist/APL-hist.html#SUP) -Michael S. Montalbano- Reminiscences about a language that is very different from the usual ones.
+- [Program Development by Stepwise Refinement](https://oberoncore.ru/_media/library/wirth_program_development_by_stepwise_refinement2.pdf) -Niklaus Wirth- How to program from a great.    
 
 **Websites**
 -  [Why I no longer recommend Julia](https://yuri.is/not-julia/) - ruh-roh. 
@@ -169,6 +175,11 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Herman Grassmann Was Right](https://www.nature.com/articles/321017a0.pdf) - Ian Stewart - Fascinating overview of Grassman's ideas and their relation to more modern concepts like Hilbert and Symplectic Spaces. 
 - [Math Augmentation: How Authors Enhance the Readability of
 Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf/augmented-formulas.pdf) - Head, Xie and Hearst - Great paper that summarizes a bunch of ways to make mathematics easier to read and digest. Has an attached [video](https://www.youtube.com/watch?v=KH8z1IbXelk) that is good as well.
+- [Visualizing Knot Complements](https://stevejtrettel.site/paper/drawing-knots/) - Dr. Steve Trettel - Gorgeous diagrams of the complements of knots and how to use computers to make them.
+- [Breakthrough in Conformal Mapping](https://www.math.wichita.edu/~delillo/mapping.pdf) - James Case - An overview of some breakthroughs in conformal mapping a decade past. How to map some thorny shapes.
+- [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/) - Jack Rusher - Another overview of geometric algebra, a nice presentation.
+- [A Short History of Operator Theory](http://www.mathphysics.com/opthy/OpHistory.html) - Evans M. Harrell II - A short overview of operator theory, which generalizes matrices so that you link them to continuous functions.
+- [Comments on the Difficulty and Validity of Various Approaches to the Calculus](https://flm-journal.org/Articles/7FC3DCB00614F668235473F38508F6.pdf) -David Tall - Lovely summary of all the different ways of understanding the same thing, numerical, epsilon delta, infinitesimals, limits etc... Of course the author has opinions. 
 
 
 
@@ -217,7 +228,8 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [The Cuckoo's Egg](https://amzn.to/3y34Xwm)- Cliff Stoll - Just a first rate story, and a wonderful tale about persistence and pursuing weird things. Loved it. 
 - [How We Invented the Airplane: An Illustrated History](https://www.amazon.ca/How-We-Invented-Airplane-Illustrated/dp/0486256626)-Orville Wright- Worth it for the pictures alone. But a first person account of how they created the miracle of powered flight. 
 - [The Collins Class Submarine Story](https://www.amazon.ca/Collins-Class-Submarine-Story-Steel/dp/0521868947) - Peter Yule and Derek Woolner - Australia built some enormous diesel submarines in the 90s having never done so before. How did these Swedish Fish adapt to their new southern home and what problems came about while building these monstrously complicated machines? Great read!
-- [Every Engineer Should Know This](https://www.amazon.ca/Every-Engineer-Should-Know-This/dp/1522023917) - Dr. R. Andrew Motes - Fun quick read with some lovely anecdotes about teaching rocket design. 
+- [Every Engineer Should Know This](https://www.amazon.ca/Every-Engineer-Should-Know-This/dp/1522023917) - Dr. R. Andrew Motes - Fun quick read with some lovely anecdotes about teaching rocket design.
+- [Vacuum electronics at the dawn of the twenty-first century](https://ieeexplore.ieee.org/document/757251) - V.L. Granatstein; R.K. Parker; C.M. Armstrong - Overview of vacuum electronics and their development
  
 
 
@@ -295,3 +307,4 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 **Books**
 
 -[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson - A fun read, finally got around to it, neat to see its influence everywhere in the culture. 
+-[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - Neal Stephenson - As good as everyone says, but took me a bit to get into it. 
