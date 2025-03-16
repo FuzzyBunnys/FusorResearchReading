@@ -19,7 +19,8 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Forging the mRNA Revolution — Katalin Karikó](https://josephnoelwalker.com/147-katalin-kariko/) - "The only thing in the periphery is freedom".
 
 **Articles**
--[Superstars or Black Holes: Are Tech Clusters Causing Stagnation?](https://americanaffairsjournal.org/2024/02/superstars-or-black-holes-are-tech-clusters-causing-stagnation/) - Brian J Asquith - Are tech clusters a good thing? Or are they a malaise representative of our current inability to progress. 
+
+- [Superstars or Black Holes: Are Tech Clusters Causing Stagnation?](https://americanaffairsjournal.org/2024/02/superstars-or-black-holes-are-tech-clusters-causing-stagnation/) - Brian J Asquith - Are tech clusters a good thing? Or are they a malaise representative of our current inability to progress. 
 
 ### History + Sociology
 **Books**
