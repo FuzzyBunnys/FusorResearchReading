@@ -61,7 +61,8 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Captive Mind](https://www.amazon.ca/Captive-Mind-Czeslaw-Milosz/dp/0679728562) - Czeslaw Milosz - Absolutely fascinating read about the poison that is deception. 
 - [The End of Science](https://www.amazon.ca/End-Science-John-Horgan/dp/0553061747) - John Horgan - Great book, I think he correctly diagnoses the problem but not the cause. All I could think while he was talking to all these scientists was that none of them really had a clue, they all seemed very lost and unwilling to admit it.
 - [The Goal: A business graphic novel](https://www.amazon.ca/Goal-Business-Graphic-Novel/dp/0884272079) - Eliyahu M. Goldrat, Dwight Jon Zimmerman and Dean Motter - Quick read about how to run a factory.
-- [New Atlantis and The Great Instauration](https://www.amazon.ca/Atlantis-Great-Instauration-Francis-Bacon/dp/1119098025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Francis Bacon - You have to read it. 
+- [New Atlantis and The Great Instauration](https://www.amazon.ca/Atlantis-Great-Instauration-Francis-Bacon/dp/1119098025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Francis Bacon - You have to read it.
+- [The Bias of Communication](https://www.amazon.ca/Bias-Communication-Harold-Innis/dp/0802068391) - Harold A. Innis - Excellent, space and time, geometry and algebra, communication and stability. 
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - Every once in awhile you get a glimpse beyond the veil. 
