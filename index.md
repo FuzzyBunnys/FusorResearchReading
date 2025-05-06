@@ -313,5 +313,7 @@ The inclusion of finance might seem a little curious, but I think it's a hugely 
 ### Fiction
 **Books**
 
--[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson - A fun read, finally got around to it, neat to see its influence everywhere in the culture. 
--[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - Neal Stephenson - As good as everyone says, but took me a bit to get into it. 
+- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson - A fun read, finally got around to it, neat to see its influence everywhere in the culture. 
+- [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - Neal Stephenson - As good as everyone says, but took me a bit to get into it.
+- [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon) - Neal Stephenson - Cryptography well told I think. Can clearly see the influence on PayPal and cryptocurrencies. 
+
