@@ -72,6 +72,7 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [Forgetting the Asbestos](https://1517.substack.com/p/forgetting-the-asbestos)- Areoform - Details that matter so much are quickly forgotten. Replication is difficult. To invent you can merely try to copy the past.
 - [The Space Shuttle Misdirection](https://www.strategictranslation.org/articles/the-space-shuttle-misdirection) - Wang Huning - A translation of Wang Huning's observations, who saw America around it's triumphant Cold War peak. He sees technology in America as a way of avoiding hard political and social questions. The whole series is worth reading.
 - [In Referees We Trust](https://fermatslibrary.com/s/in-referees-we-trust-the-origins-of-journal-refereeing#email-newsletter) - Melinda Baldwin - Modern peer review is a very new thing and very different from how science was practiced previously. It seems to me like a poisonous consequence of government funding.
+- [Memetics Before Memetics: The Prehistory of the Meme](https://listed.to/@pachabelcanon/61782/memetics-before-memetics-the-prehistory-of-the-meme) - Francis Kafka - Of course it was the french. Qui d'autre?
 
 
 ### Biography - Auto and Otherwise
