@@ -63,7 +63,9 @@ Currently Reading - [What Engineers Know and How They Know It](https://amzn.to/2
 - [The Goal: A business graphic novel](https://www.amazon.ca/Goal-Business-Graphic-Novel/dp/0884272079) - Eliyahu M. Goldrat, Dwight Jon Zimmerman and Dean Motter - Quick read about how to run a factory.
 - [New Atlantis and The Great Instauration](https://www.amazon.ca/Atlantis-Great-Instauration-Francis-Bacon/dp/1119098025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Francis Bacon - You have to read it.
 - [The Bias of Communication](https://www.amazon.ca/Bias-Communication-Harold-Innis/dp/0802068391) - Harold A. Innis - Excellent, space and time, geometry and algebra, communication and stability.
-- [BOOM: Bubbles and the End of Stagnation](https://press.stripe.com/boom) - Byrne Hobart and Tobias Huber - Excellent, learned lots in the chapter on fracking, Thiel's influence is obvious, and the references to so many sources which were new to me mixed in with many I already enjoyed is always a good sign. While I think their thesis is generally correct, I worry about some of the specifics. For a technology to be successful, the technology has to work. I think that revelation is not always present in some of their examples for the future. 
+- [BOOM: Bubbles and the End of Stagnation](https://press.stripe.com/boom) - Byrne Hobart and Tobias Huber - Excellent, learned lots in the chapter on fracking, Thiel's influence is obvious, and the references to so many sources which were new to me mixed in with many I already enjoyed is always a good sign. While I think their thesis is generally correct, I worry about some of the specifics. For a technology to be successful, the technology has to work. I think that revelation is not always present in some of their examples for the future.
+- [Orality and Literacy](https://www.amazon.ca/Orality-Literacy-Anniversary-Walter-Ong/dp/0415538386) - Walter Ong - An incredible book to read right now in the context of the internet, the rise of TikTok and social media. Huge implications for how people think about time based on how they communicate.
+
 
 **Articles**
 - [A Fractal of Lies](https://drmaciver.substack.com/p/a-fractal-of-lies) - David R. Maciver - Every once in awhile you get a glimpse beyond the veil. 
@@ -188,6 +190,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [A Short History of Operator Theory](http://www.mathphysics.com/opthy/OpHistory.html) - Evans M. Harrell II - A short overview of operator theory, which generalizes matrices so that you link them to continuous functions.
 - [Comments on the Difficulty and Validity of Various Approaches to the Calculus](https://flm-journal.org/Articles/7FC3DCB00614F668235473F38508F6.pdf) -David Tall - Lovely summary of all the different ways of understanding the same thing, numerical, epsilon delta, infinitesimals, limits etc... Of course the author has opinions.
 - [MATHEMATICS IN THE 20TH CENTURY](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf) - Sir Michael Aatiyah - A survey of recent mathematical development. Many interesting comparisons, including the transition from linear to non-linear. I especially liked the comparison between algebra and geometry, where algebra is the manipulation of time and geometry is the manipulation of space. Of course worth re-reading, to much technicality to absorb in a single pass through.
+- [An Introduction to Functional Analysis for Science and Engineering](https://arxiv.org/abs/1904.02539) - David A. B. Miller - Pretty technical, but at least a nice overview of how you approximate operators with linear algebra. 
 
 
 
@@ -238,7 +241,7 @@ Formulas using Novel Visual Design Practices](https://andrewhead.info/assets/pdf
 - [How We Invented the Airplane: An Illustrated History](https://www.amazon.ca/How-We-Invented-Airplane-Illustrated/dp/0486256626)-Orville Wright- Worth it for the pictures alone. But a first person account of how they created the miracle of powered flight. 
 - [The Collins Class Submarine Story](https://www.amazon.ca/Collins-Class-Submarine-Story-Steel/dp/0521868947) - Peter Yule and Derek Woolner - Australia built some enormous diesel submarines in the 90s having never done so before. How did these Swedish Fish adapt to their new southern home and what problems came about while building these monstrously complicated machines? Great read!
 - [Every Engineer Should Know This](https://www.amazon.ca/Every-Engineer-Should-Know-This/dp/1522023917) - Dr. R. Andrew Motes - Fun quick read with some lovely anecdotes about teaching rocket design.
-- [Vacuum electronics at the dawn of the twenty-first century](https://ieeexplore.ieee.org/document/757251) - V.L. Granatstein; R.K. Parker; C.M. Armstrong - Overview of vacuum electronics and their development
+- [The Enigma of the Airfoil](https://www.amazon.ca/Enigma-Aerofoil-Theories-Aerodynamics-1909-1930-ebook/dp/B0085WCQQQ) - David Bloor - Aerospace is a pretty new technology and there's a ton of historical work about how the ideas developed. This is a great overview of how the mindset you approach a problem with is _incredibly_ important.  
  
 
 
